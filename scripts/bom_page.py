@@ -30,15 +30,10 @@ def scr_table(kind):
 ext_rows,ext_tot=scr_table('EXT'); int_rows,int_tot=scr_table('INT')
 # ---------- pecas ----------
 EXCL={'tbAS03','dsF','fita','exSopr','exServo','tcAcr','pfAcr','acr1','u_acr1','u_tcAcr','u_pfAcr'}
-def region(r):
-    i=r['id']; l=r['label']
-    if i.startswith('u_'): return 'Extensão de cima'
-    if i in ('mold1','mold2','pux','reguaPortaA','reguaPortaB','placaTopo','dobr','dobrG','bat1'): return 'Portas de baixo'
-    if i.startswith(('ex','al')) or i in ('riser47','tcRiser','molAl47','tcMolAl','bandaB','tcBanda','apB','tcApoio'): return 'Top hat: laterais (riser, aletas e exaustor)'
-    if i.startswith(('tf','tr','sup','thCant','thSup','thTr')) or i in ('tcCant','tcSup'): return 'Top hat: frente, fundo e cantos'
-    if i in ('acI','acS','tcMolI','tcMolS','pfMolI','pfMolS','fechos','pfFch'): return 'Painéis laterais e do fundo'
-    if i.startswith(('esp','tcE','tcV','tcF','v72','vsup','capa','tcCapa','fb')): return 'Colunas'
-    return 'Base (frente, laterais e traseira)'
+exec(open('names.py').read())
+DESC={m['id']:m.get('desc','') for m in json.load(open('web_meta.json'))}
+FOLD={'01_Base':'01 Base','02_Colunas':'02 Colunas','03_Paineis':'03 Painéis laterais e fundo','04_Portas':'04 Portas de baixo','05_TopHat':'05 Top hat','06_Extensao':'06 Extensão de cima'}
+def region(r): return FOLD[nome(r['id'])[0]]
 def color(l):
     s=l.lower()
     if 'verde' in s: return 'verde'
@@ -47,7 +42,7 @@ def color(l):
 def clean(l):
     for p in ('Extensao de cima - ',): l=l.replace(p,'')
     return l
-ORDER=['Base (frente, laterais e traseira)','Colunas','Painéis laterais e do fundo','Portas de baixo','Top hat: frente, fundo e cantos','Top hat: laterais (riser, aletas e exaustor)','Extensão de cima']
+ORDER=list(FOLD.values())
 grp=collections.defaultdict(list); total_pcs=0; over=[]
 for r in R:
     if r['id'] in EXCL: continue
@@ -57,16 +52,17 @@ for r in R:
     grp[region(r)].append((r,n,q,big))
 part_html=[]
 for g in ORDER:
-    lst=grp.get(g,[])
+    lst=sorted(grp.get(g,[]),key=lambda t:t[0]['label'])
     if not lst: continue
     sub=sum(q for _,_,q,_ in lst)
     trs=[]
     for r,n,q,big in lst:
         c=color(r['label'])
-        qs=f'{q}' + (f' <span class="dim">({n} + {n} espelhada)</span>' if r['E'] else '')
+        qs=f'{q}' + (f' <span class="dim">({n} D + {n} E)</span>' if r['E'] else '')
         flag=' <span class="warn">passa de 300 mm</span>' if big>300 else ''
-        trs.append(f'<tr><td class="ck"><input type="checkbox" id="p-{r["id"]}"></td><td>{esc(clean(r["label"]))}</td><td><span class="sw sw-{c}"></span>{c}</td><td class="num">{qs}</td><td class="num mono">{big} mm{flag}</td></tr>')
-    part_html.append(f'<section class="grp"><h3>{esc(g)} <span class="dim">· {sub} peças</span></h3><div class="tw"><table><thead><tr><th></th><th>Peça</th><th>Cor</th><th class="num">Qtd</th><th class="num">Maior medida</th></tr></thead><tbody>{"".join(trs)}</tbody></table></div></section>')
+        d=DESC.get(r['id'],'').replace('Extensao de cima - ','')
+        trs.append(f'<tr><td class="ck"><input type="checkbox" id="p-{r["id"]}"></td><td><span class="mono">{esc(r["label"])}</span><br><span class="note">{esc(d)}</span></td><td><span class="sw sw-{c}"></span>{c}</td><td class="num">{qs}</td><td class="num mono">{big} mm{flag}</td></tr>')
+    part_html.append(f'<section class="grp"><h3>{esc(g)} <span class="dim">· {sub} peças</span></h3><div class="tw"><table><thead><tr><th></th><th>Peça (nome do arquivo)</th><th>Cor</th><th class="num">Qtd</th><th class="num">Maior medida</th></tr></thead><tbody>{"".join(trs)}</tbody></table></div></section>')
 # ---------- acrilicos ----------
 ACR=[('Painel lateral de baixo','452 x 440',2),('Painel lateral de cima (extensão)','440 x 326',2),('Fundo de baixo','470,4 x 448,1',1),('Fundo de cima (extensão)','470 x 326',1),('Porta de baixo','448,5 x 233',2),('Porta de cima (extensão)','326,4 x 233',2)]
 acr_rows=''.join(f'<tr><td class="ck"><input type="checkbox" id="a-{i}"></td><td>{esc(a)}</td><td class="num mono">{s} mm</td><td class="num">{q}</td></tr>' for i,(a,s,q) in enumerate(ACR))

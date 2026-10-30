@@ -1,1312 +1,1302 @@
 [
  {
-  "id": "tfE",
-  "arquivo": "base_e_top_hat/tfE__Topo_da_frente_parede_preta_E.stl",
-  "descricao": "Topo da frente - parede preta E (com trilho de acessorios; emenda em X 0 dentro de um rasgo)"
+  "arquivo": "01_Base/SV08_Base_Canto_FD_Cantoneira_Preto.stl",
+  "descricao": "Cantoneira da frente (L, peca unica)",
+  "id_interno": "cantF"
  },
  {
-  "id": "tfD",
-  "arquivo": "base_e_top_hat/tfD__Topo_da_frente_parede_preta_D.stl",
-  "descricao": "Topo da frente - parede preta D (com trilho; rabo de andorinha escondido sob o hexagono)"
+  "arquivo": "01_Base/SV08_Base_Canto_FE_Cantoneira_Preto.stl",
+  "descricao": "Cantoneira da frente (L, peca unica) - lado E (espelho)",
+  "id_interno": "cantF_E"
  },
  {
-  "id": "tfC",
-  "arquivo": "base_e_top_hat/tfC__Topo_da_frente_hexagono_verde_central.stl",
-  "descricao": "Topo da frente - hexagono verde central"
+  "arquivo": "01_Base/SV08_Base_Canto_TD_Cantoneira_Preto.stl",
+  "descricao": "Cantoneira de tras (L) - espelho da da frente (passa por cima das placas de tras)",
+  "id_interno": "cantT2"
  },
  {
-  "id": "tfL",
-  "arquivo": "base_e_top_hat/tfL__Topo_da_frente_verdes_dos_lados.stl",
-  "descricao": "Topo da frente - verdes dos lados (ponta para o centro)"
+  "arquivo": "01_Base/SV08_Base_Canto_TE_Cantoneira_Preto.stl",
+  "descricao": "Cantoneira de tras (L) - espelho da da frente (passa por cima das placas de tras) - lado E (espelho)",
+  "id_interno": "cantT2_E"
  },
  {
-  "id": "tcEL",
-  "arquivo": "base_e_top_hat/tcEL__Coluna_TD_espinha_lateral.stl",
-  "descricao": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica)"
+  "arquivo": "01_Base/SV08_Base_Frente_Asa_D_Verde.stl",
+  "descricao": "Frente - asa verde com bolsao",
+  "id_interno": "fA"
  },
  {
-  "id": "tcELs",
-  "arquivo": "base_e_top_hat/tcELs__Coluna_TD_espinha_lateral.stl",
-  "descricao": "Coluna TD - espinha lateral (2 de 2)"
+  "arquivo": "01_Base/SV08_Base_Frente_Asa_E_Verde.stl",
+  "descricao": "Frente - asa verde com bolsao - lado E (espelho)",
+  "id_interno": "fA_E"
  },
  {
-  "id": "tcEF",
-  "arquivo": "base_e_top_hat/tcEF__Coluna_TD_espinha_de_tras_com_o_labio_do_acrilico_do_fundo.stl",
-  "descricao": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo"
+  "arquivo": "01_Base/SV08_Base_Frente_Caixa_Luz_Branco.stl",
+  "descricao": "Frente - caixa de luz (fechada, branca por dentro)",
+  "id_interno": "cxLuz"
  },
  {
-  "id": "tcEFs",
-  "arquivo": "base_e_top_hat/tcEFs__Coluna_TD_espinha_de_tras_labio_do_acrilico_e_bolso_da_parede_do_top_h.stl",
-  "descricao": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat"
+  "arquivo": "01_Base/SV08_Base_Frente_Estrutura_Oculta_Centro_D_Preto.stl",
+  "descricao": "Estrutura central da frente - metade D (escondida)",
+  "id_interno": "eCs"
  },
  {
-  "id": "tcV72",
-  "arquivo": "base_e_top_hat/tcV72__Coluna_TD_verde_de_baixo.stl",
-  "descricao": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica)"
+  "arquivo": "01_Base/SV08_Base_Frente_Estrutura_Oculta_Centro_E_Preto.stl",
+  "descricao": "Estrutura central da frente - metade E (escondida)",
+  "id_interno": "eCsL"
  },
  {
-  "id": "tcVs",
-  "arquivo": "base_e_top_hat/tcVs__Coluna_TD_verde_de_cima.stl",
-  "descricao": "Coluna TD - verde de cima"
+  "arquivo": "01_Base/SV08_Base_Frente_Estrutura_Oculta_D_Preto.stl",
+  "descricao": "Estrutura frente D (escondida)",
+  "id_interno": "eD"
  },
  {
-  "id": "tcCapa",
-  "arquivo": "base_e_top_hat/tcCapa__Coluna_TD_cantoneira_do_meio.stl",
-  "descricao": "Coluna TD - cantoneira do meio"
+  "arquivo": "01_Base/SV08_Base_Frente_Estrutura_Oculta_E_Preto.stl",
+  "descricao": "Estrutura frente D (escondida) - lado E (espelho)",
+  "id_interno": "eD_E"
  },
  {
-  "id": "tcFb",
-  "arquivo": "base_e_top_hat/tcFb__Coluna_TD_faixa_batente_do_acrilico.stl",
-  "descricao": "Coluna TD - faixa batente do acrilico (baixo e cima)"
+  "arquivo": "01_Base/SV08_Base_Frente_Faixa_Superior_D_Verde.stl",
+  "descricao": "Frente - faixa verde de cima",
+  "id_interno": "fS"
  },
  {
-  "id": "tcCant",
-  "arquivo": "base_e_top_hat/tcCant__Top_hat_cantoneira_de_cima_de_tras_igual_a_da_frente.stl",
-  "descricao": "Top hat - cantoneira de cima de tras (TD) - igual a da frente"
+  "arquivo": "01_Base/SV08_Base_Frente_Faixa_Superior_E_Verde.stl",
+  "descricao": "Frente - faixa verde de cima - lado E (espelho)",
+  "id_interno": "fS_E"
  },
  {
-  "id": "tcSup",
-  "arquivo": "base_e_top_hat/tcSup__Top_hat_suporte_de_canto_de_tras_igual_ao_da_frente.stl",
-  "descricao": "Top hat - suporte de canto de tras (TD) - igual ao da frente"
+  "arquivo": "01_Base/SV08_Base_Frente_Logo_Central_Verde.stl",
+  "descricao": "Frente - verde central com a logo e os filetes de luz",
+  "id_interno": "gC"
  },
  {
-  "id": "tcRiser",
-  "arquivo": "base_e_top_hat/tcRiser__Riser_lateral_D_espelho_do_da_frente_janela_vazada_e_rasgos_dos_pinos_.stl",
-  "descricao": "Riser lateral D (1 de 2) - espelho do da frente, janela vazada e rasgos dos pinos das aletas"
+  "arquivo": "01_Base/SV08_Base_Frente_Logo_Difusor_Branco.stl",
+  "descricao": "Frente - placa branca da logo e dos filetes (acende com a fita atras)",
+  "id_interno": "logoW"
  },
  {
-  "id": "tcMolAl",
-  "arquivo": "base_e_top_hat/tcMolAl__Moldura_verde_da_abertura_das_aletas_tras.stl",
-  "descricao": "Moldura verde da abertura das aletas - tras (espelho)"
+  "arquivo": "01_Base/SV08_Base_Frente_Placa_Central_Preto.stl",
+  "descricao": "Frente - placa preta central (X -125 a 125)",
+  "id_interno": "p21"
  },
  {
-  "id": "tcBanda",
-  "arquivo": "base_e_top_hat/tcBanda__Banda_do_topo_lateral_tras.stl",
-  "descricao": "Banda do topo lateral - tras (espelho da da frente)"
+  "arquivo": "01_Base/SV08_Base_Frente_Placa_Lado_D_Preto.stl",
+  "descricao": "Frente - placa preta do lado (X 125 a 258)",
+  "id_interno": "pR"
  },
  {
-  "id": "tcApoio",
-  "arquivo": "base_e_top_hat/tcApoio__Apoio_do_acrilico_no_topo_tras.stl",
-  "descricao": "Apoio do acrilico no topo - tras (Z -211 a 60, passa por cima do parafuso de Z 0)"
+  "arquivo": "01_Base/SV08_Base_Frente_Placa_Lado_E_Preto.stl",
+  "descricao": "Frente - placa preta do lado (X 125 a 258) - lado E (espelho)",
+  "id_interno": "pR_E"
  },
  {
-  "id": "tcMolI",
-  "arquivo": "base_e_top_hat/tcMolI__Moldura_do_painel_lateral_acabamento_tras.stl",
-  "descricao": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente)"
+  "arquivo": "01_Base/SV08_Base_Frente_Soleira_D_Preto.stl",
+  "descricao": "Soleira / degrau 2/2 - proposta",
+  "id_interno": "sol1"
  },
  {
-  "id": "tcMolS",
-  "arquivo": "base_e_top_hat/tcMolS__Moldura_do_painel_lateral_acabamento_tras.stl",
-  "descricao": "Moldura do painel lateral (cima) + acabamento - tras (espelho)"
+  "arquivo": "01_Base/SV08_Base_Frente_Soleira_E_Centro_Preto.stl",
+  "descricao": "Soleira / degrau 1/2 (passa pelo centro) - rebaixo para a caixa de luz",
+  "id_interno": "sol1E"
  },
  {
-  "id": "tcAcr",
-  "arquivo": "acrilico_referencia/tcAcr__Painel_lateral_acrilico_simetrico.stl",
-  "descricao": "Painel lateral - acrilico simetrico (frente e tras iguais)"
+  "arquivo": "01_Base/SV08_Base_LatD_Asas_Verde.stl",
+  "descricao": "Asas verdes de baixo (com bolsao)",
+  "id_interno": "v24"
  },
  {
-  "id": "cantT2",
-  "arquivo": "base_e_top_hat/cantT2__Cantoneira_de_tras_espelho_da_da_frente.stl",
-  "descricao": "Cantoneira de tras (L) - espelho da da frente (passa por cima das placas de tras)"
+  "arquivo": "01_Base/SV08_Base_LatD_Capa_Central_Verde.stl",
+  "descricao": "Verde 3 - central (em volta do apoio de mao)",
+  "id_interno": "v3"
  },
  {
-  "id": "tbPC",
-  "arquivo": "base_e_top_hat/tbPC__Traseira_de_baixo_placa_preta_central.stl",
-  "descricao": "Traseira de baixo - placa preta central (X -125 a 125)"
+  "arquivo": "01_Base/SV08_Base_LatD_Estrutura_Oculta_Frente_Preto.stl",
+  "descricao": "Estrutura lateral da frente (escondida)",
+  "id_interno": "eLF"
  },
  {
-  "id": "tbPD",
-  "arquivo": "base_e_top_hat/tbPD__Traseira_de_baixo_placa_preta_do_lado_D.stl",
-  "descricao": "Traseira de baixo - placa preta do lado D (X 125 a 258)"
+  "arquivo": "01_Base/SV08_Base_LatD_Estrutura_Oculta_Meio_Preto.stl",
+  "descricao": "Estrutura lateral do meio (escondida)",
+  "id_interno": "eLM"
  },
  {
-  "id": "tbPE",
-  "arquivo": "base_e_top_hat/tbPE__Traseira_de_baixo_placa_preta_do_lado_E.stl",
-  "descricao": "Traseira de baixo - placa preta do lado E (X -258 a -125, com a janela da tomada)"
+  "arquivo": "01_Base/SV08_Base_LatD_Estrutura_Oculta_Tras_Preto.stl",
+  "descricao": "Estrutura lateral de tras (escondida)",
+  "id_interno": "eLT"
  },
  {
-  "id": "tbVC",
-  "arquivo": "base_e_top_hat/tbVC__Traseira_de_baixo_hexagono_verde_central.stl",
-  "descricao": "Traseira de baixo - hexagono verde central (140 x 68)"
+  "arquivo": "01_Base/SV08_Base_LatD_Faixas_Superiores_Verde.stl",
+  "descricao": "Faixas verdes de cima",
+  "id_interno": "v15"
  },
  {
-  "id": "tbVS",
-  "arquivo": "base_e_top_hat/tbVS__Traseira_de_baixo_faixas_verdes_de_cima.stl",
-  "descricao": "Traseira de baixo - faixas verdes de cima"
+  "arquivo": "01_Base/SV08_Base_LatD_Placa_Frente_Preto.stl",
+  "descricao": "Lateral - placa preta da frente",
+  "id_interno": "pLB"
  },
  {
-  "id": "tbVA",
-  "arquivo": "base_e_top_hat/tbVA__Traseira_de_baixo_asas_verdes.stl",
-  "descricao": "Traseira de baixo - asas verdes (D com bolsao; E com a moldura da tomada)"
+  "arquivo": "01_Base/SV08_Base_LatD_Placa_Tras_Preto.stl",
+  "descricao": "Lateral - placa preta de tras",
+  "id_interno": "pLA"
  },
  {
-  "id": "tbMol",
-  "arquivo": "base_e_top_hat/tbMol__Traseira_de_baixo_moldura_preta_da_tomada.stl",
-  "descricao": "Traseira de baixo - moldura preta da tomada (1,5 acima da verde)"
+  "arquivo": "01_Base/SV08_Base_LatE_Asas_Verde.stl",
+  "descricao": "Asas verdes de baixo (com bolsao) - lado E (espelho)",
+  "id_interno": "v24_E"
  },
  {
-  "id": "tbEst",
-  "arquivo": "base_e_top_hat/tbEst__Traseira_de_baixo_estruturas_escondidas.stl",
-  "descricao": "Traseira de baixo - estruturas escondidas (4, apoios nos bolsos de tras da base)"
+  "arquivo": "01_Base/SV08_Base_LatE_Capa_Central_Verde.stl",
+  "descricao": "Verde 3 - central (em volta do apoio de mao) - lado E (espelho)",
+  "id_interno": "v3_E"
  },
  {
-  "id": "trE",
-  "arquivo": "base_e_top_hat/trE__Traseira_do_top_hat_parede_preta_E.stl",
-  "descricao": "Traseira do top hat - parede preta E (trilho com rasgos, aletas de enfeite fechadas)"
+  "arquivo": "01_Base/SV08_Base_LatE_Estrutura_Oculta_Frente_Preto.stl",
+  "descricao": "Estrutura lateral da frente (escondida) - lado E (espelho)",
+  "id_interno": "eLF_E"
  },
  {
-  "id": "trD",
-  "arquivo": "base_e_top_hat/trD__Traseira_do_top_hat_parede_preta_D.stl",
-  "descricao": "Traseira do top hat - parede preta D (ilha preta no hexagono, rabo de andorinha da emenda)"
+  "arquivo": "01_Base/SV08_Base_LatE_Estrutura_Oculta_Meio_Preto.stl",
+  "descricao": "Estrutura lateral do meio (escondida) - lado E (espelho)",
+  "id_interno": "eLM_E"
  },
  {
-  "id": "trH",
-  "arquivo": "base_e_top_hat/trH__Traseira_hexagono_verde.stl",
-  "descricao": "Traseira - hexagono verde (moldura da ilha preta)"
+  "arquivo": "01_Base/SV08_Base_LatE_Estrutura_Oculta_Tras_Preto.stl",
+  "descricao": "Estrutura lateral de tras (escondida) - lado E (espelho)",
+  "id_interno": "eLT_E"
  },
  {
-  "id": "trL",
-  "arquivo": "base_e_top_hat/trL__Traseira_verdes_dos_lados.stl",
-  "descricao": "Traseira - verdes dos lados (abracam as aletas, ponta para o centro)"
+  "arquivo": "01_Base/SV08_Base_LatE_Faixas_Superiores_Verde.stl",
+  "descricao": "Faixas verdes de cima - lado E (espelho)",
+  "id_interno": "v15_E"
  },
  {
-  "id": "trEE",
-  "arquivo": "base_e_top_hat/trEE__Traseira_do_top_hat_estruturas_escondidas_E_e_D.stl",
-  "descricao": "Traseira do top hat - estruturas escondidas E e D (aba na travessa, nervura parafusada na barra dos suportes)"
+  "arquivo": "01_Base/SV08_Base_LatE_Placa_Frente_Preto.stl",
+  "descricao": "Lateral - placa preta da frente - lado E (espelho)",
+  "id_interno": "pLB_E"
  },
  {
-  "id": "supT1",
-  "arquivo": "base_e_top_hat/supT1__Top_hat_suporte_do_trilho_de_tras_1_3_123_mm.stl",
-  "descricao": "Top hat - suporte do trilho de tras 1/3 (E) - 123 mm"
+  "arquivo": "01_Base/SV08_Base_LatE_Placa_Tras_Preto.stl",
+  "descricao": "Lateral - placa preta de tras - lado E (espelho)",
+  "id_interno": "pLA_E"
  },
  {
-  "id": "supT2",
-  "arquivo": "base_e_top_hat/supT2__Top_hat_suporte_do_trilho_de_tras_2_3_123_mm_linguetas.stl",
-  "descricao": "Top hat - suporte do trilho de tras 2/3 (meio, com o parafuso central) - 123 mm + linguetas"
+  "arquivo": "01_Base/SV08_Base_Tras_Asas_Verde.stl",
+  "descricao": "Traseira de baixo - asas verdes (D com bolsao; E com a moldura da tomada)",
+  "id_interno": "tbVA"
  },
  {
-  "id": "supT3",
-  "arquivo": "base_e_top_hat/supT3__Top_hat_suporte_do_trilho_de_tras_3_3_123_mm.stl",
-  "descricao": "Top hat - suporte do trilho de tras 3/3 (D) - 123 mm"
+  "arquivo": "01_Base/SV08_Base_Tras_Estruturas_Ocultas_Preto.stl",
+  "descricao": "Traseira de baixo - estruturas escondidas (4, apoios nos bolsos de tras da base)",
+  "id_interno": "tbEst"
  },
  {
-  "id": "exCaixa",
-  "arquivo": "base_e_top_hat/exCaixa__Exaustor_caixa_dos_sopradores.stl",
-  "descricao": "Exaustor - caixa dos sopradores (na janela do suporte; imprime com a placa dos furos na mesa)"
+  "arquivo": "01_Base/SV08_Base_Tras_Faixas_Superiores_Verde.stl",
+  "descricao": "Traseira de baixo - faixas verdes de cima",
+  "id_interno": "tbVS"
  },
  {
-  "id": "exCamara",
-  "arquivo": "base_e_top_hat/exCamara__Exaustor_camara_de_ar_atras_das_aletas_e_suporte_do_servo.stl",
-  "descricao": "Exaustor - camara de ar atras das aletas e suporte do servo (imprime com a parede de dentro na mesa)"
+  "arquivo": "01_Base/SV08_Base_Tras_Hexagono_Central_Verde.stl",
+  "descricao": "Traseira de baixo - hexagono verde central (140 x 68)",
+  "id_interno": "tbVC"
  },
  {
-  "id": "exSupServo",
-  "arquivo": "base_e_top_hat/exSupServo__Exaustor_lateral_suporte_do_servo.stl",
-  "descricao": "Exaustor lateral - suporte do servo (aparafusado de lado nas 2 barras do suporte do trilho do meio)"
+  "arquivo": "01_Base/SV08_Base_Tras_Moldura_Tomada_Preto.stl",
+  "descricao": "Traseira de baixo - moldura preta da tomada (1,5 acima da verde)",
+  "id_interno": "tbMol"
  },
  {
-  "id": "exHornF",
-  "arquivo": "base_e_top_hat/exHornF__Exaustor_braco_do_servo_com_pino.stl",
-  "descricao": "Exaustor - braco do servo com pino (janela da frente)"
+  "arquivo": "01_Base/SV08_Base_Tras_Placa_Central_Preto.stl",
+  "descricao": "Traseira de baixo - placa preta central (X -125 a 125)",
+  "id_interno": "tbPC"
  },
  {
-  "id": "exBarF",
-  "arquivo": "base_e_top_hat/exBarF__Exaustor_barra_de_ligacao_dupla_e_pinos.stl",
-  "descricao": "Exaustor - barra de ligacao dupla (as 2 janelas numa peca so, travessa entre elas, aba do servo no centro) e pinos"
+  "arquivo": "01_Base/SV08_Base_Tras_Placa_Lado_D_Preto.stl",
+  "descricao": "Traseira de baixo - placa preta do lado D (X 125 a 258)",
+  "id_interno": "tbPD"
  },
  {
-  "id": "pfAcr",
-  "arquivo": "acrilico_referencia/pfAcr__Painel_do_fundo_acrilico_3_mm_de_borda_a_borda_da_espinha_de_tras.stl",
-  "descricao": "Painel do fundo - acrilico 3 mm (470,4 x 448,1), de borda a borda da espinha de tras"
+  "arquivo": "01_Base/SV08_Base_Tras_Placa_Lado_E_Tomada_Preto.stl",
+  "descricao": "Traseira de baixo - placa preta do lado E (X -258 a -125, com a janela da tomada)",
+  "id_interno": "tbPE"
  },
  {
-  "id": "pfMolI",
-  "arquivo": "base_e_top_hat/pfMolI__Painel_do_fundo_moldura_de_baixo_acabamento.stl",
-  "descricao": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Batente_Acrilico_Inferior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - baixo (batente do acrilico)",
+  "id_interno": "fbI"
  },
  {
-  "id": "pfMolS",
-  "arquivo": "base_e_top_hat/pfMolS__Painel_do_fundo_moldura_de_cima_acabamento.stl",
-  "descricao": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Batente_Acrilico_Superior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - cima",
+  "id_interno": "fbS"
  },
  {
-  "id": "pfFch",
-  "arquivo": "base_e_top_hat/pfFch__Painel_do_fundo_fechos_snap_latch.stl",
-  "descricao": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Cantoneira_Meio_Preto.stl",
+  "descricao": "74_capa_central_D - 1 parafuso no centro de cada aba",
+  "id_interno": "capa74"
  },
  {
-  "id": "u_esp1",
-  "arquivo": "extensao_de_cima/u_esp1__SV08_Espinha_FD_Lateral_Black.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Capa_Inferior_Verde.stl",
+  "descricao": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo)",
+  "id_interno": "v72"
  },
  {
-  "id": "u_esp1s",
-  "arquivo": "extensao_de_cima/u_esp1s__SV08_Espinha_FD_Lateral_Black.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Capa_Superior_Verde.stl",
+  "descricao": "Verde de cima da coluna (quina igual a da 72)",
+  "id_interno": "vsup1"
  },
  {
-  "id": "u_espF",
-  "arquivo": "extensao_de_cima/u_espF__SV08_Espinha_FD_Frente_Black.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Espinha_Frente_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+  "id_interno": "espF"
  },
  {
-  "id": "u_espFs",
-  "arquivo": "extensao_de_cima/u_espFs__SV08_Espinha_FD_Frente_Black.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Espinha_Frente_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha)",
+  "id_interno": "espFs"
  },
  {
-  "id": "u_v72",
-  "arquivo": "extensao_de_cima/u_v72__Verde_de_baixo_da_coluna_recua_2_mm_onde_e_larga.stl",
-  "descricao": "Extensao de cima - Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+  "id_interno": "esp1"
  },
  {
-  "id": "u_vsup1",
-  "arquivo": "extensao_de_cima/u_vsup1__Verde_de_cima_da_coluna.stl",
-  "descricao": "Extensao de cima - Verde de cima da coluna (quina igual a da 72)"
+  "arquivo": "02_Colunas/SV08_Coluna_FD_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha)",
+  "id_interno": "esp1s"
  },
  {
-  "id": "u_capa74",
-  "arquivo": "extensao_de_cima/u_capa74__74_capa_central_D_1_parafuso_no_centro_de_cada_aba.stl",
-  "descricao": "Extensao de cima - 74_capa_central_D - 1 parafuso no centro de cada aba"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Batente_Acrilico_Inferior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - baixo (batente do acrilico) - lado E (espelho)",
+  "id_interno": "fbI_E"
  },
  {
-  "id": "u_fbI",
-  "arquivo": "extensao_de_cima/u_fbI__Faixa_batente_sob_a_espinha_baixo.stl",
-  "descricao": "Extensao de cima - Faixa batente sob a espinha - baixo (batente do acrilico)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Batente_Acrilico_Superior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - cima - lado E (espelho)",
+  "id_interno": "fbS_E"
  },
  {
-  "id": "u_fbS",
-  "arquivo": "extensao_de_cima/u_fbS__Faixa_batente_sob_a_espinha_cima.stl",
-  "descricao": "Extensao de cima - Faixa batente sob a espinha - cima"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Cantoneira_Meio_Preto.stl",
+  "descricao": "74_capa_central_D - 1 parafuso no centro de cada aba - lado E (espelho)",
+  "id_interno": "capa74_E"
  },
  {
-  "id": "u_acI",
-  "arquivo": "extensao_de_cima/u_acI__Moldura_do_painel_lateral_acabamento.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral + acabamento (peca unica)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Capa_Inferior_Verde.stl",
+  "descricao": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo) - lado E (espelho)",
+  "id_interno": "v72_E"
  },
  {
-  "id": "u_acS",
-  "arquivo": "extensao_de_cima/u_acS__Moldura_do_painel_lateral_acabamento.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral (cima) + acabamento (peca unica)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Capa_Superior_Verde.stl",
+  "descricao": "Verde de cima da coluna (quina igual a da 72) - lado E (espelho)",
+  "id_interno": "vsup1_E"
  },
  {
-  "id": "u_tcMolI",
-  "arquivo": "extensao_de_cima/u_tcMolI__Moldura_do_painel_lateral_acabamento_tras.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral + acabamento - tras (espelho da peca da frente)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Espinha_Frente_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)",
+  "id_interno": "espF_E"
  },
  {
-  "id": "u_tcMolS",
-  "arquivo": "extensao_de_cima/u_tcMolS__Moldura_do_painel_lateral_acabamento_tras.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral (cima) + acabamento - tras (espelho)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Espinha_Frente_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)",
+  "id_interno": "espFs_E"
  },
  {
-  "id": "u_tcEL",
-  "arquivo": "extensao_de_cima/u_tcEL__Coluna_TD_espinha_lateral.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)",
+  "id_interno": "esp1_E"
  },
  {
-  "id": "u_tcELs",
-  "arquivo": "extensao_de_cima/u_tcELs__Coluna_TD_espinha_lateral.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha lateral (2 de 2)"
+  "arquivo": "02_Colunas/SV08_Coluna_FE_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)",
+  "id_interno": "esp1s_E"
  },
  {
-  "id": "u_tcEF",
-  "arquivo": "extensao_de_cima/u_tcEF__Coluna_TD_espinha_de_tras_com_o_labio_do_acrilico_do_fundo.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Batentes_Acrilico_Preto.stl",
+  "descricao": "Coluna TD - faixa batente do acrilico (baixo e cima)",
+  "id_interno": "tcFb"
  },
  {
-  "id": "u_tcEFs",
-  "arquivo": "extensao_de_cima/u_tcEFs__Coluna_TD_espinha_de_tras_labio_do_acrilico_e_bolso_da_parede_do_top_h.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Cantoneira_Meio_Preto.stl",
+  "descricao": "Coluna TD - cantoneira do meio",
+  "id_interno": "tcCapa"
  },
  {
-  "id": "u_tcV72",
-  "arquivo": "extensao_de_cima/u_tcV72__Coluna_TD_verde_de_baixo.stl",
-  "descricao": "Extensao de cima - Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica)"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Capa_Inferior_Verde.stl",
+  "descricao": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica)",
+  "id_interno": "tcV72"
  },
  {
-  "id": "u_tcVs",
-  "arquivo": "extensao_de_cima/u_tcVs__Coluna_TD_verde_de_cima.stl",
-  "descricao": "Extensao de cima - Coluna TD - verde de cima"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Capa_Superior_Verde.stl",
+  "descricao": "Coluna TD - verde de cima",
+  "id_interno": "tcVs"
  },
  {
-  "id": "u_tcCapa",
-  "arquivo": "extensao_de_cima/u_tcCapa__Coluna_TD_cantoneira_do_meio.stl",
-  "descricao": "Extensao de cima - Coluna TD - cantoneira do meio"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Espinha_Fundo_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo",
+  "id_interno": "tcEF"
  },
  {
-  "id": "u_tcFb",
-  "arquivo": "extensao_de_cima/u_tcFb__Coluna_TD_faixa_batente_do_acrilico.stl",
-  "descricao": "Extensao de cima - Coluna TD - faixa batente do acrilico (baixo e cima)"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Espinha_Fundo_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat",
+  "id_interno": "tcEFs"
  },
  {
-  "id": "u_pfMolI",
-  "arquivo": "extensao_de_cima/u_pfMolI__Painel_do_fundo_moldura_de_baixo_acabamento.stl",
-  "descricao": "Extensao de cima - Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto)"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica)",
+  "id_interno": "tcEL"
  },
  {
-  "id": "u_pfMolS",
-  "arquivo": "extensao_de_cima/u_pfMolS__Painel_do_fundo_moldura_de_cima_acabamento.stl",
-  "descricao": "Extensao de cima - Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral)"
+  "arquivo": "02_Colunas/SV08_Coluna_TD_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (2 de 2)",
+  "id_interno": "tcELs"
  },
  {
-  "id": "u_mold1",
-  "arquivo": "extensao_de_cima/u_mold1__Porta_direita_moldura_de_baixo.stl",
-  "descricao": "Extensao de cima - Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Batentes_Acrilico_Preto.stl",
+  "descricao": "Coluna TD - faixa batente do acrilico (baixo e cima) - lado E (espelho)",
+  "id_interno": "tcFb_E"
  },
  {
-  "id": "u_mold2",
-  "arquivo": "extensao_de_cima/u_mold2__Porta_direita_moldura_de_cima.stl",
-  "descricao": "Extensao de cima - Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Cantoneira_Meio_Preto.stl",
+  "descricao": "Coluna TD - cantoneira do meio - lado E (espelho)",
+  "id_interno": "tcCapa_E"
  },
  {
-  "id": "u_acr1",
-  "arquivo": "acrilico_referencia/u_acr1__Porta_direita_acrilico_3_mm_do_tamanho_da_porta_atras_da_moldura_encos.stl",
-  "descricao": "Extensao de cima - Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras)"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Capa_Inferior_Verde.stl",
+  "descricao": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica) - lado E (espelho)",
+  "id_interno": "tcV72_E"
  },
  {
-  "id": "u_bat1",
-  "arquivo": "extensao_de_cima/u_bat1__Batente_lateral_da_porta.stl",
-  "descricao": "Extensao de cima - Batente lateral da porta"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Capa_Superior_Verde.stl",
+  "descricao": "Coluna TD - verde de cima - lado E (espelho)",
+  "id_interno": "tcVs_E"
  },
  {
-  "id": "u_fechos",
-  "arquivo": "extensao_de_cima/u_fechos__Fechos_snap_latch_do_painel_lateral.stl",
-  "descricao": "Extensao de cima - Fechos snap latch do painel lateral (frente e tras, Y 190 e 430)"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Espinha_Fundo_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo - lado E (espelho)",
+  "id_interno": "tcEF_E"
  },
  {
-  "id": "u_pfFch",
-  "arquivo": "extensao_de_cima/u_pfFch__Painel_do_fundo_fechos_snap_latch.stl",
-  "descricao": "Extensao de cima - Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna)"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Espinha_Fundo_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat - lado E (espelho)",
+  "id_interno": "tcEFs_E"
  },
  {
-  "id": "u_dobr",
-  "arquivo": "extensao_de_cima/u_dobr__Dobradicas_K1_270_graus_da_porta_direita_folhas.stl",
-  "descricao": "Extensao de cima - Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica) - lado E (espelho)",
+  "id_interno": "tcEL_E"
  },
  {
-  "id": "u_dobrG",
-  "arquivo": "extensao_de_cima/u_dobrG__Dobradicas_K1_gaiola_das_engrenagens.stl",
-  "descricao": "Extensao de cima - Dobradicas K1 - gaiola das engrenagens"
+  "arquivo": "02_Colunas/SV08_Coluna_TE_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (2 de 2) - lado E (espelho)",
+  "id_interno": "tcELs_E"
  },
  {
-  "id": "u_pux",
-  "arquivo": "extensao_de_cima/u_pux__Porta_direita_puxador.stl",
-  "descricao": "Extensao de cima - Porta direita - puxador"
+  "arquivo": "03_Paineis/SV08_Fundo_Acrilico_3mm.stl",
+  "descricao": "Painel do fundo - acrilico 3 mm (470,4 x 448,1), de borda a borda da espinha de tras",
+  "id_interno": "pfAcr"
  },
  {
-  "id": "u_reguaPorta",
-  "arquivo": "extensao_de_cima/u_reguaPorta__Batente_do_meio_regua_reta_preta_18_5_x_296_x_3_mm_aparafusada_atras_d.stl",
-  "descricao": "Extensao de cima - Batente do meio: regua reta preta 18,5 x 296 x 3 mm, aparafusada atras da porta D (a E fecha encostando nela; abre a E primeiro)"
+  "arquivo": "03_Paineis/SV08_Fundo_Fechos_D_Preto.stl",
+  "descricao": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna)",
+  "id_interno": "pfFch"
  },
  {
-  "id": "u_tcAcr",
-  "arquivo": "acrilico_referencia/u_tcAcr__Painel_lateral_acrilico_simetrico.stl",
-  "descricao": "Extensao de cima - Painel lateral - acrilico simetrico (frente e tras iguais)"
+  "arquivo": "03_Paineis/SV08_Fundo_Fechos_E_Preto.stl",
+  "descricao": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna) - lado E (espelho)",
+  "id_interno": "pfFch_E"
  },
  {
-  "id": "u_pfAcr",
-  "arquivo": "acrilico_referencia/u_pfAcr__Painel_do_fundo_acrilico_3_mm_de_borda_a_borda_da_espinha_de_tras.stl",
-  "descricao": "Extensao de cima - Painel do fundo - acrilico 3 mm (470,4 x 448,1), de borda a borda da espinha de tras"
+  "arquivo": "03_Paineis/SV08_Fundo_Moldura_Inferior_D_Preto.stl",
+  "descricao": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto)",
+  "id_interno": "pfMolI"
  },
  {
-  "id": "u_apLatF",
-  "arquivo": "extensao_de_cima/u_apLatF__apoios_do_acrilico_da_lateral_presos_na_barra_2020_com_porca_T.stl",
-  "descricao": "Extensao de cima - apoios do acrilico da lateral (baixo e cima, metade da frente), presos na barra 2020 com porca T"
+  "arquivo": "03_Paineis/SV08_Fundo_Moldura_Inferior_E_Preto.stl",
+  "descricao": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto) - lado E (espelho)",
+  "id_interno": "pfMolI_E"
  },
  {
-  "id": "u_apLatT",
-  "arquivo": "extensao_de_cima/u_apLatT__apoios_do_acrilico_da_lateral_presos_na_barra_2020_com_porca_T.stl",
-  "descricao": "Extensao de cima - apoios do acrilico da lateral (baixo e cima, metade de tras), presos na barra 2020 com porca T"
+  "arquivo": "03_Paineis/SV08_Fundo_Moldura_Superior_D_Preto.stl",
+  "descricao": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral)",
+  "id_interno": "pfMolS"
  },
  {
-  "id": "u_apFundo",
-  "arquivo": "extensao_de_cima/u_apFundo__apoios_do_acrilico_do_fundo_presos_na_barra_2020_com_porca_T.stl",
-  "descricao": "Extensao de cima - apoios do acrilico do fundo (baixo e cima), presos na barra 2020 com porca T"
+  "arquivo": "03_Paineis/SV08_Fundo_Moldura_Superior_E_Preto.stl",
+  "descricao": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral) - lado E (espelho)",
+  "id_interno": "pfMolS_E"
  },
  {
-  "id": "u_batPorta",
-  "arquivo": "extensao_de_cima/u_batPorta__batentes_de_baixo_e_de_cima_da_porta_presos_na_barra_2020_com_porca_T.stl",
-  "descricao": "Extensao de cima - batentes de baixo e de cima da porta, presos na barra 2020 com porca T"
+  "arquivo": "03_Paineis/SV08_Lateral_D_Acrilico_3mm.stl",
+  "descricao": "Painel lateral - acrilico simetrico (frente e tras iguais)",
+  "id_interno": "tcAcr"
  },
  {
-  "id": "tfEE",
-  "arquivo": "base_e_top_hat/tfEE__Topo_da_frente_estrutura_escondida_E.stl",
-  "descricao": "Topo da frente - estrutura escondida E (aba na travessa, nervura parafusada na barra dos suportes, encostos)"
+  "arquivo": "03_Paineis/SV08_Lateral_D_Fechos_Preto.stl",
+  "descricao": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430)",
+  "id_interno": "fechos"
  },
  {
-  "id": "tfED",
-  "arquivo": "base_e_top_hat/tfED__Topo_da_frente_estrutura_escondida_D.stl",
-  "descricao": "Topo da frente - estrutura escondida D (emenda em X 60, rabo de andorinha)"
+  "arquivo": "03_Paineis/SV08_Lateral_D_Moldura_Frente_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento (peca unica)",
+  "id_interno": "acI"
  },
  {
-  "id": "supF1",
-  "arquivo": "base_e_top_hat/supF1__Top_hat_suporte_do_trilho_da_frente_1_3_123_mm.stl",
-  "descricao": "Top hat - suporte do trilho da frente 1/3 (E) - 123 mm"
+  "arquivo": "03_Paineis/SV08_Lateral_D_Moldura_Frente_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento (peca unica)",
+  "id_interno": "acS"
  },
  {
-  "id": "supF2",
-  "arquivo": "base_e_top_hat/supF2__Top_hat_suporte_do_trilho_da_frente_2_3_123_mm_linguetas.stl",
-  "descricao": "Top hat - suporte do trilho da frente 2/3 (meio, com o parafuso central) - 123 mm + linguetas"
+  "arquivo": "03_Paineis/SV08_Lateral_D_Moldura_Tras_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente)",
+  "id_interno": "tcMolI"
  },
  {
-  "id": "supF3",
-  "arquivo": "base_e_top_hat/supF3__Top_hat_suporte_do_trilho_da_frente_3_3_123_mm.stl",
-  "descricao": "Top hat - suporte do trilho da frente 3/3 (D) - 123 mm"
+  "arquivo": "03_Paineis/SV08_Lateral_D_Moldura_Tras_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento - tras (espelho)",
+  "id_interno": "tcMolS"
  },
  {
-  "id": "pR",
-  "arquivo": "base_e_top_hat/pR__Frente_placa_preta_do_lado.stl",
-  "descricao": "Frente - placa preta do lado (X 125 a 258)"
+  "arquivo": "03_Paineis/SV08_Lateral_E_Acrilico_3mm.stl",
+  "descricao": "Painel lateral - acrilico simetrico (frente e tras iguais) - lado E (espelho)",
+  "id_interno": "tcAcr_E"
  },
  {
-  "id": "gC",
-  "arquivo": "base_e_top_hat/gC__Frente_verde_central_com_a_logo_e_os_filetes_de_luz.stl",
-  "descricao": "Frente - verde central com a logo e os filetes de luz"
+  "arquivo": "03_Paineis/SV08_Lateral_E_Fechos_Preto.stl",
+  "descricao": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430) - lado E (espelho)",
+  "id_interno": "fechos_E"
  },
  {
-  "id": "fS",
-  "arquivo": "base_e_top_hat/fS__Frente_faixa_verde_de_cima.stl",
-  "descricao": "Frente - faixa verde de cima"
+  "arquivo": "03_Paineis/SV08_Lateral_E_Moldura_Frente_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento (peca unica) - lado E (espelho)",
+  "id_interno": "acI_E"
  },
  {
-  "id": "fA",
-  "arquivo": "base_e_top_hat/fA__Frente_asa_verde_com_bolsao.stl",
-  "descricao": "Frente - asa verde com bolsao"
+  "arquivo": "03_Paineis/SV08_Lateral_E_Moldura_Frente_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento (peca unica) - lado E (espelho)",
+  "id_interno": "acS_E"
  },
  {
-  "id": "logoW",
-  "arquivo": "base_e_top_hat/logoW__Frente_placa_branca_da_logo_e_dos_filetes.stl",
-  "descricao": "Frente - placa branca da logo e dos filetes (acende com a fita atras)"
+  "arquivo": "03_Paineis/SV08_Lateral_E_Moldura_Tras_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente) - lado E (espelho)",
+  "id_interno": "tcMolI_E"
  },
  {
-  "id": "cxLuz",
-  "arquivo": "base_e_top_hat/cxLuz__Frente_caixa_de_luz.stl",
-  "descricao": "Frente - caixa de luz (fechada, branca por dentro)"
+  "arquivo": "03_Paineis/SV08_Lateral_E_Moldura_Tras_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento - tras (espelho) - lado E (espelho)",
+  "id_interno": "tcMolS_E"
  },
  {
-  "id": "p21",
-  "arquivo": "base_e_top_hat/p21__Frente_placa_preta_central.stl",
-  "descricao": "Frente - placa preta central (X -125 a 125)"
+  "arquivo": "04_Portas/SV08_Porta_Batente_Meio_1de2_Preto.stl",
+  "descricao": "Batente do meio de baixo: regua reta preta 1 de 2 (18,5 x 226,5 x 3 mm, meia-junta em cima), atras da porta D",
+  "id_interno": "reguaPortaA"
  },
  {
-  "id": "pLA",
-  "arquivo": "base_e_top_hat/pLA__Lateral_placa_preta_de_tras.stl",
-  "descricao": "Lateral - placa preta de tras"
+  "arquivo": "04_Portas/SV08_Porta_Batente_Meio_2de2_Preto.stl",
+  "descricao": "Batente do meio de baixo: regua reta preta 2 de 2 (18,5 x 226,2 x 3 mm, meia-junta embaixo), atras da porta D",
+  "id_interno": "reguaPortaB"
  },
  {
-  "id": "pLB",
-  "arquivo": "base_e_top_hat/pLB__Lateral_placa_preta_da_frente.stl",
-  "descricao": "Lateral - placa preta da frente"
+  "arquivo": "04_Portas/SV08_Porta_D_Acrilico_3mm.stl",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras)",
+  "id_interno": "acr1"
  },
  {
-  "id": "eD",
-  "arquivo": "base_e_top_hat/eD__Estrutura_frente_D.stl",
-  "descricao": "Estrutura frente D (escondida)"
+  "arquivo": "04_Portas/SV08_Porta_D_Batente_Lateral_Preto.stl",
+  "descricao": "Batente lateral da porta",
+  "id_interno": "bat1"
  },
  {
-  "id": "eCs",
-  "arquivo": "base_e_top_hat/eCs__Estrutura_central_da_frente_metade_D.stl",
-  "descricao": "Estrutura central da frente - metade D (escondida)"
+  "arquivo": "04_Portas/SV08_Porta_D_Dobradicas_Folhas_Preto.stl",
+  "descricao": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas",
+  "id_interno": "dobr"
  },
  {
-  "id": "eCsL",
-  "arquivo": "base_e_top_hat/eCsL__Estrutura_central_da_frente_metade_E.stl",
-  "descricao": "Estrutura central da frente - metade E (escondida)"
+  "arquivo": "04_Portas/SV08_Porta_D_Dobradicas_Gaiola_Preto.stl",
+  "descricao": "Dobradicas K1 - gaiola das engrenagens",
+  "id_interno": "dobrG"
  },
  {
-  "id": "v3",
-  "arquivo": "base_e_top_hat/v3__Verde_3_central.stl",
-  "descricao": "Verde 3 - central (em volta do apoio de mao)"
+  "arquivo": "04_Portas/SV08_Porta_D_Moldura_Inferior_Preto.stl",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)",
+  "id_interno": "mold1"
  },
  {
-  "id": "v24",
-  "arquivo": "base_e_top_hat/v24__Asas_verdes_de_baixo.stl",
-  "descricao": "Asas verdes de baixo (com bolsao)"
+  "arquivo": "04_Portas/SV08_Porta_D_Moldura_Superior_Preto.stl",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)",
+  "id_interno": "mold2"
  },
  {
-  "id": "v15",
-  "arquivo": "base_e_top_hat/v15__Faixas_verdes_de_cima.stl",
-  "descricao": "Faixas verdes de cima"
+  "arquivo": "04_Portas/SV08_Porta_D_Placa_Rebaixo_Travessa_Preto.stl",
+  "descricao": "Placa do rebaixo da travessa de cima (atras da faixa de cima da porta de baixo): preenche ate a face da impressora (Z 273,5) para a espuma de vedacao; 3 furos cegos de 2,5 mm por tras para parafusar por dentro",
+  "id_interno": "placaTopo"
  },
  {
-  "id": "cantF",
-  "arquivo": "base_e_top_hat/cantF__Cantoneira_da_frente.stl",
-  "descricao": "Cantoneira da frente (L, peca unica)"
+  "arquivo": "04_Portas/SV08_Porta_D_Puxador_Preto.stl",
+  "descricao": "Porta direita - puxador",
+  "id_interno": "pux"
  },
  {
-  "id": "eLT",
-  "arquivo": "base_e_top_hat/eLT__Estrutura_lateral_de_tras.stl",
-  "descricao": "Estrutura lateral de tras (escondida)"
+  "arquivo": "04_Portas/SV08_Porta_E_Acrilico_3mm.stl",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras) - lado E (espelho)",
+  "id_interno": "acr1_E"
  },
  {
-  "id": "eLM",
-  "arquivo": "base_e_top_hat/eLM__Estrutura_lateral_do_meio.stl",
-  "descricao": "Estrutura lateral do meio (escondida)"
+  "arquivo": "04_Portas/SV08_Porta_E_Batente_Lateral_Preto.stl",
+  "descricao": "Batente lateral da porta - lado E (espelho)",
+  "id_interno": "bat1_E"
  },
  {
-  "id": "eLF",
-  "arquivo": "base_e_top_hat/eLF__Estrutura_lateral_da_frente.stl",
-  "descricao": "Estrutura lateral da frente (escondida)"
+  "arquivo": "04_Portas/SV08_Porta_E_Dobradicas_Folhas_Preto.stl",
+  "descricao": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas - lado E (espelho)",
+  "id_interno": "dobr_E"
  },
  {
-  "id": "esp1",
-  "arquivo": "base_e_top_hat/esp1__SV08_Espinha_FD_Lateral_Black.stl",
-  "descricao": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha)"
+  "arquivo": "04_Portas/SV08_Porta_E_Dobradicas_Gaiola_Preto.stl",
+  "descricao": "Dobradicas K1 - gaiola das engrenagens - lado E (espelho)",
+  "id_interno": "dobrG_E"
  },
  {
-  "id": "esp1s",
-  "arquivo": "base_e_top_hat/esp1s__SV08_Espinha_FD_Lateral_Black.stl",
-  "descricao": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha)"
+  "arquivo": "04_Portas/SV08_Porta_E_Moldura_Inferior_Preto.stl",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "id_interno": "mold1_E"
  },
  {
-  "id": "espF",
-  "arquivo": "base_e_top_hat/espF__SV08_Espinha_FD_Frente_Black.stl",
-  "descricao": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha)"
+  "arquivo": "04_Portas/SV08_Porta_E_Moldura_Superior_Preto.stl",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "id_interno": "mold2_E"
  },
  {
-  "id": "espFs",
-  "arquivo": "base_e_top_hat/espFs__SV08_Espinha_FD_Frente_Black.stl",
-  "descricao": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha)"
+  "arquivo": "04_Portas/SV08_Porta_E_Placa_Rebaixo_Travessa_Preto.stl",
+  "descricao": "Placa do rebaixo da travessa de cima (atras da faixa de cima da porta de baixo): preenche ate a face da impressora (Z 273,5) para a espuma de vedacao; 3 furos cegos de 2,5 mm por tras para parafusar por dentro - lado E (espelho)",
+  "id_interno": "placaTopo_E"
  },
  {
-  "id": "v72",
-  "arquivo": "base_e_top_hat/v72__Verde_de_baixo_da_coluna_recua_2_mm_onde_e_larga.stl",
-  "descricao": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo)"
+  "arquivo": "04_Portas/SV08_Porta_E_Puxador_Preto.stl",
+  "descricao": "Porta direita - puxador - lado E (espelho)",
+  "id_interno": "pux_E"
  },
  {
-  "id": "vsup1",
-  "arquivo": "base_e_top_hat/vsup1__Verde_de_cima_da_coluna.stl",
-  "descricao": "Verde de cima da coluna (quina igual a da 72)"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_FD_Cantoneira_Preto.stl",
+  "descricao": "Top hat - cantoneira de cima da frente (FD) - peca limpa, faces de dentro planas",
+  "id_interno": "thCantF"
  },
  {
-  "id": "capa74",
-  "arquivo": "base_e_top_hat/capa74__74_capa_central_D_1_parafuso_no_centro_de_cada_aba.stl",
-  "descricao": "74_capa_central_D - 1 parafuso no centro de cada aba"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_FD_Suporte_Preto.stl",
+  "descricao": "Top hat - suporte de canto da frente (FD) - ressaltos da lateral encurtados ate X 279,6",
+  "id_interno": "thSupF"
  },
  {
-  "id": "fbI",
-  "arquivo": "base_e_top_hat/fbI__Faixa_batente_sob_a_espinha_baixo.stl",
-  "descricao": "Faixa batente sob a espinha - baixo (batente do acrilico)"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_FE_Cantoneira_Preto.stl",
+  "descricao": "Top hat - cantoneira de cima da frente (FD) - peca limpa, faces de dentro planas - lado E (espelho)",
+  "id_interno": "thCantF_E"
  },
  {
-  "id": "acI",
-  "arquivo": "base_e_top_hat/acI__Moldura_do_painel_lateral_acabamento.stl",
-  "descricao": "Moldura do painel lateral + acabamento (peca unica)"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_FE_Suporte_Preto.stl",
+  "descricao": "Top hat - suporte de canto da frente (FD) - ressaltos da lateral encurtados ate X 279,6 - lado E (espelho)",
+  "id_interno": "thSupF_E"
  },
  {
-  "id": "acS",
-  "arquivo": "base_e_top_hat/acS__Moldura_do_painel_lateral_acabamento.stl",
-  "descricao": "Moldura do painel lateral (cima) + acabamento (peca unica)"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_TD_Cantoneira_Preto.stl",
+  "descricao": "Top hat - cantoneira de cima de tras (TD) - igual a da frente",
+  "id_interno": "tcCant"
  },
  {
-  "id": "thCantF",
-  "arquivo": "base_e_top_hat/thCantF__Top_hat_cantoneira_de_cima_da_frente_peca_limpa_faces_de_dentro_planas.stl",
-  "descricao": "Top hat - cantoneira de cima da frente (FD) - peca limpa, faces de dentro planas"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_TD_Suporte_Preto.stl",
+  "descricao": "Top hat - suporte de canto de tras (TD) - igual ao da frente",
+  "id_interno": "tcSup"
  },
  {
-  "id": "riser47",
-  "arquivo": "base_e_top_hat/riser47__Riser_lateral_D_Z_0_a_219_9_emenda_no_centro_dentro_do_vinco_abertura_.stl",
-  "descricao": "Riser lateral D (2 de 2) - Z 0 a 219,9, emenda no centro dentro do vinco; abertura 138 x 44; ponta entra 10 mm na espinha"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_TE_Cantoneira_Preto.stl",
+  "descricao": "Top hat - cantoneira de cima de tras (TD) - igual a da frente - lado E (espelho)",
+  "id_interno": "tcCant_E"
  },
  {
-  "id": "molAl47",
-  "arquivo": "base_e_top_hat/molAl47__Moldura_verde_da_abertura_das_aletas_frente.stl",
-  "descricao": "Moldura verde da abertura das aletas - frente"
+  "arquivo": "05_TopHat/SV08_TopHat_Canto_TE_Suporte_Preto.stl",
+  "descricao": "Top hat - suporte de canto de tras (TD) - igual ao da frente - lado E (espelho)",
+  "id_interno": "tcSup_E"
  },
  {
-  "id": "alF1",
-  "arquivo": "base_e_top_hat/alF1__Aleta_reta_movel_1_3_janela_da_frente.stl",
-  "descricao": "Aleta reta movel 1/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Estrutura_Oculta_D_Preto.stl",
+  "descricao": "Topo da frente - estrutura escondida D (emenda em X 60, rabo de andorinha)",
+  "id_interno": "tfED"
  },
  {
-  "id": "alF2",
-  "arquivo": "base_e_top_hat/alF2__Aleta_reta_movel_2_3_janela_da_frente.stl",
-  "descricao": "Aleta reta movel 2/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Estrutura_Oculta_E_Preto.stl",
+  "descricao": "Topo da frente - estrutura escondida E (aba na travessa, nervura parafusada na barra dos suportes, encostos)",
+  "id_interno": "tfEE"
  },
  {
-  "id": "alF3",
-  "arquivo": "base_e_top_hat/alF3__Aleta_reta_movel_3_3_janela_da_frente.stl",
-  "descricao": "Aleta reta movel 3/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Hexagono_Verde.stl",
+  "descricao": "Topo da frente - hexagono verde central",
+  "id_interno": "tfC"
  },
  {
-  "id": "alT1",
-  "arquivo": "base_e_top_hat/alT1__Aleta_reta_movel_1_3_janela_da_tras.stl",
-  "descricao": "Aleta reta movel 1/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Laterais_Verde.stl",
+  "descricao": "Topo da frente - verdes dos lados (ponta para o centro)",
+  "id_interno": "tfL"
  },
  {
-  "id": "alT2",
-  "arquivo": "base_e_top_hat/alT2__Aleta_reta_movel_2_3_janela_da_tras.stl",
-  "descricao": "Aleta reta movel 2/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Parede_D_Preto.stl",
+  "descricao": "Topo da frente - parede preta D (com trilho; rabo de andorinha escondido sob o hexagono)",
+  "id_interno": "tfD"
  },
  {
-  "id": "alT3",
-  "arquivo": "base_e_top_hat/alT3__Aleta_reta_movel_3_3_janela_da_tras.stl",
-  "descricao": "Aleta reta movel 3/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Parede_E_Preto.stl",
+  "descricao": "Topo da frente - parede preta E (com trilho de acessorios; emenda em X 0 dentro de um rasgo)",
+  "id_interno": "tfE"
  },
  {
-  "id": "thSupF",
-  "arquivo": "base_e_top_hat/thSupF__Top_hat_suporte_de_canto_da_frente_ressaltos_da_lateral_encurtados_ate.stl",
-  "descricao": "Top hat - suporte de canto da frente (FD) - ressaltos da lateral encurtados ate X 279,6"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Suporte_Trilho_1de3_E_Preto.stl",
+  "descricao": "Top hat - suporte do trilho da frente 1/3 (E) - 123 mm",
+  "id_interno": "supF1"
  },
  {
-  "id": "thTrA",
-  "arquivo": "base_e_top_hat/thTrA__Top_hat_suporte_do_trilho_lateral_1_3_123_mm.stl",
-  "descricao": "Top hat - suporte do trilho lateral 1/3 (tras) - 123 mm"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Suporte_Trilho_2de3_Meio_Preto.stl",
+  "descricao": "Top hat - suporte do trilho da frente 2/3 (meio, com o parafuso central) - 123 mm + linguetas",
+  "id_interno": "supF2"
  },
  {
-  "id": "thTrC",
-  "arquivo": "base_e_top_hat/thTrC__Top_hat_suporte_do_trilho_lateral_2_3_123_mm_linguetas.stl",
-  "descricao": "Top hat - suporte do trilho lateral 2/3 (meio, com o parafuso central) - 123 mm + linguetas"
+  "arquivo": "05_TopHat/SV08_TopHat_Frente_Suporte_Trilho_3de3_D_Preto.stl",
+  "descricao": "Top hat - suporte do trilho da frente 3/3 (D) - 123 mm",
+  "id_interno": "supF3"
  },
  {
-  "id": "thTrB",
-  "arquivo": "base_e_top_hat/thTrB__Top_hat_suporte_do_trilho_lateral_3_3_123_mm.stl",
-  "descricao": "Top hat - suporte do trilho lateral 3/3 (frente) - 123 mm"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Estruturas_Ocultas_Preto.stl",
+  "descricao": "Traseira do top hat - estruturas escondidas E e D (aba na travessa, nervura parafusada na barra dos suportes)",
+  "id_interno": "trEE"
  },
  {
-  "id": "bandaPin",
-  "arquivo": "base_e_top_hat/bandaPin__Pinos_da_emenda_da_banda_do_topo.stl",
-  "descricao": "Pinos da emenda da banda do topo (2x 3 x 3 x 16)"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Hexagono_Verde.stl",
+  "descricao": "Traseira - hexagono verde (moldura da ilha preta)",
+  "id_interno": "trH"
  },
  {
-  "id": "bandaB",
-  "arquivo": "base_e_top_hat/bandaB__Banda_do_topo_lateral_frente.stl",
-  "descricao": "Banda do topo lateral - frente (Z 0 a 219,9, emenda no vinco do centro)"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Laterais_Verde.stl",
+  "descricao": "Traseira - verdes dos lados (abracam as aletas, ponta para o centro)",
+  "id_interno": "trL"
  },
  {
-  "id": "apB",
-  "arquivo": "base_e_top_hat/apB__Apoio_do_acrilico_no_topo_frente.stl",
-  "descricao": "Apoio do acrilico no topo - frente (Z 60 a 211, rabo de andorinha na emenda)"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Parede_D_Preto.stl",
+  "descricao": "Traseira do top hat - parede preta D (ilha preta no hexagono, rabo de andorinha da emenda)",
+  "id_interno": "trD"
  },
  {
-  "id": "fbS",
-  "arquivo": "base_e_top_hat/fbS__Faixa_batente_sob_a_espinha_cima.stl",
-  "descricao": "Faixa batente sob a espinha - cima"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Parede_E_Preto.stl",
+  "descricao": "Traseira do top hat - parede preta E (trilho com rasgos, aletas de enfeite fechadas)",
+  "id_interno": "trE"
  },
  {
-  "id": "sol1",
-  "arquivo": "base_e_top_hat/sol1__Soleira_degrau_2_2_proposta.stl",
-  "descricao": "Soleira / degrau 2/2 - proposta"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Suporte_Trilho_1de3_E_Preto.stl",
+  "descricao": "Top hat - suporte do trilho de tras 1/3 (E) - 123 mm",
+  "id_interno": "supT1"
  },
  {
-  "id": "sol1E",
-  "arquivo": "base_e_top_hat/sol1E__Soleira_degrau_1_2_rebaixo_para_a_caixa_de_luz.stl",
-  "descricao": "Soleira / degrau 1/2 (passa pelo centro) - rebaixo para a caixa de luz"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Suporte_Trilho_2de3_Meio_Preto.stl",
+  "descricao": "Top hat - suporte do trilho de tras 2/3 (meio, com o parafuso central) - 123 mm + linguetas",
+  "id_interno": "supT2"
  },
  {
-  "id": "mold1",
-  "arquivo": "base_e_top_hat/mold1__Porta_direita_moldura_de_baixo.stl",
-  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)"
+  "arquivo": "05_TopHat/SV08_TopHat_Fundo_Suporte_Trilho_3de3_D_Preto.stl",
+  "descricao": "Top hat - suporte do trilho de tras 3/3 (D) - 123 mm",
+  "id_interno": "supT3"
  },
  {
-  "id": "mold2",
-  "arquivo": "base_e_top_hat/mold2__Porta_direita_moldura_de_cima.stl",
-  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Aleta_Frente_1de3_Preto.stl",
+  "descricao": "Aleta reta movel 1/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)",
+  "id_interno": "alF1"
  },
  {
-  "id": "pux",
-  "arquivo": "base_e_top_hat/pux__Porta_direita_puxador.stl",
-  "descricao": "Porta direita - puxador"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Aleta_Frente_2de3_Preto.stl",
+  "descricao": "Aleta reta movel 2/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)",
+  "id_interno": "alF2"
  },
  {
-  "id": "reguaPortaA",
-  "arquivo": "base_e_top_hat/reguaPortaA__Batente_do_meio_de_baixo_regua_reta_preta_1_de_2_atras_da_porta_D.stl",
-  "descricao": "Batente do meio de baixo: regua reta preta 1 de 2 (18,5 x 226,5 x 3 mm, meia-junta em cima), atras da porta D"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Aleta_Frente_3de3_Preto.stl",
+  "descricao": "Aleta reta movel 3/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)",
+  "id_interno": "alF3"
  },
  {
-  "id": "reguaPortaB",
-  "arquivo": "base_e_top_hat/reguaPortaB__Batente_do_meio_de_baixo_regua_reta_preta_2_de_2_atras_da_porta_D.stl",
-  "descricao": "Batente do meio de baixo: regua reta preta 2 de 2 (18,5 x 226,2 x 3 mm, meia-junta embaixo), atras da porta D"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Aleta_Tras_1de3_Preto.stl",
+  "descricao": "Aleta reta movel 1/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)",
+  "id_interno": "alT1"
  },
  {
-  "id": "placaTopo",
-  "arquivo": "base_e_top_hat/placaTopo__Placa_do_rebaixo_da_travessa_de_cima_preenche_ate_a_face_da_impressora.stl",
-  "descricao": "Placa do rebaixo da travessa de cima (atras da faixa de cima da porta de baixo): preenche ate a face da impressora (Z 273,5) para a espuma de vedacao; 3 furos cegos de 2,5 mm por tras para parafusar por dentro"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Aleta_Tras_2de3_Preto.stl",
+  "descricao": "Aleta reta movel 2/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)",
+  "id_interno": "alT2"
  },
  {
-  "id": "dobr",
-  "arquivo": "base_e_top_hat/dobr__Dobradicas_K1_270_graus_da_porta_direita_folhas.stl",
-  "descricao": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Aleta_Tras_3de3_Preto.stl",
+  "descricao": "Aleta reta movel 3/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)",
+  "id_interno": "alT3"
  },
  {
-  "id": "dobrG",
-  "arquivo": "base_e_top_hat/dobrG__Dobradicas_K1_gaiola_das_engrenagens.stl",
-  "descricao": "Dobradicas K1 - gaiola das engrenagens"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Apoio_Acrilico_Frente_Preto.stl",
+  "descricao": "Apoio do acrilico no topo - frente (Z 60 a 211, rabo de andorinha na emenda)",
+  "id_interno": "apB"
  },
  {
-  "id": "fechos",
-  "arquivo": "base_e_top_hat/fechos__Fechos_snap_latch_do_painel_lateral.stl",
-  "descricao": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Apoio_Acrilico_Tras_Preto.stl",
+  "descricao": "Apoio do acrilico no topo - tras (Z -211 a 60, passa por cima do parafuso de Z 0)",
+  "id_interno": "tcApoio"
  },
  {
-  "id": "acr1",
-  "arquivo": "acrilico_referencia/acr1__Porta_direita_acrilico_3_mm_do_tamanho_da_porta_atras_da_moldura_encos.stl",
-  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Banda_Frente_Preto.stl",
+  "descricao": "Banda do topo lateral - frente (Z 0 a 219,9, emenda no vinco do centro)",
+  "id_interno": "bandaB"
  },
  {
-  "id": "bat1",
-  "arquivo": "base_e_top_hat/bat1__Batente_lateral_da_porta.stl",
-  "descricao": "Batente lateral da porta"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Banda_Tras_Preto.stl",
+  "descricao": "Banda do topo lateral - tras (espelho da da frente)",
+  "id_interno": "tcBanda"
  },
  {
-  "id": "tcEL_E",
-  "arquivo": "base_e_top_hat/tcEL_E__Coluna_TD_espinha_lateral_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Exaustor_Barra_Aletas_Preto.stl",
+  "descricao": "Exaustor - barra de ligacao dupla (as 2 janelas numa peca so, travessa entre elas, aba do servo no centro) e pinos",
+  "id_interno": "exBarF"
  },
  {
-  "id": "tcELs_E",
-  "arquivo": "base_e_top_hat/tcELs_E__Coluna_TD_espinha_lateral_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - espinha lateral (2 de 2) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Exaustor_Braco_Servo_Preto.stl",
+  "descricao": "Exaustor - braco do servo com pino (janela da frente)",
+  "id_interno": "exHornF"
  },
  {
-  "id": "tcEF_E",
-  "arquivo": "base_e_top_hat/tcEF_E__Coluna_TD_espinha_de_tras_com_o_labio_do_acrilico_do_fundo_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Exaustor_Caixa_Sopradores_Preto.stl",
+  "descricao": "Exaustor - caixa dos sopradores (na janela do suporte; imprime com a placa dos furos na mesa)",
+  "id_interno": "exCaixa"
  },
  {
-  "id": "tcEFs_E",
-  "arquivo": "base_e_top_hat/tcEFs_E__Coluna_TD_espinha_de_tras_labio_do_acrilico_e_bolso_da_parede_do_top_h_espelhada.stl",
-  "descricao": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Exaustor_Camara_Ar_Preto.stl",
+  "descricao": "Exaustor - camara de ar atras das aletas e suporte do servo (imprime com a parede de dentro na mesa)",
+  "id_interno": "exCamara"
  },
  {
-  "id": "tcV72_E",
-  "arquivo": "base_e_top_hat/tcV72_E__Coluna_TD_verde_de_baixo_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Exaustor_Suporte_Servo_Preto.stl",
+  "descricao": "Exaustor lateral - suporte do servo (aparafusado de lado nas 2 barras do suporte do trilho do meio)",
+  "id_interno": "exSupServo"
  },
  {
-  "id": "tcVs_E",
-  "arquivo": "base_e_top_hat/tcVs_E__Coluna_TD_verde_de_cima_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - verde de cima - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Moldura_Aletas_Frente_Verde.stl",
+  "descricao": "Moldura verde da abertura das aletas - frente",
+  "id_interno": "molAl47"
  },
  {
-  "id": "tcCapa_E",
-  "arquivo": "base_e_top_hat/tcCapa_E__Coluna_TD_cantoneira_do_meio_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - cantoneira do meio - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Moldura_Aletas_Tras_Verde.stl",
+  "descricao": "Moldura verde da abertura das aletas - tras (espelho)",
+  "id_interno": "tcMolAl"
  },
  {
-  "id": "tcFb_E",
-  "arquivo": "base_e_top_hat/tcFb_E__Coluna_TD_faixa_batente_do_acrilico_lado_E_espelhada.stl",
-  "descricao": "Coluna TD - faixa batente do acrilico (baixo e cima) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Riser_Frente_Preto.stl",
+  "descricao": "Riser lateral D (2 de 2) - Z 0 a 219,9, emenda no centro dentro do vinco; abertura 138 x 44; ponta entra 10 mm na espinha",
+  "id_interno": "riser47"
  },
  {
-  "id": "tcCant_E",
-  "arquivo": "base_e_top_hat/tcCant_E__Top_hat_cantoneira_de_cima_de_tras_igual_a_da_frente_lado_E_espelhada.stl",
-  "descricao": "Top hat - cantoneira de cima de tras (TD) - igual a da frente - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Riser_Tras_Preto.stl",
+  "descricao": "Riser lateral D (1 de 2) - espelho do da frente, janela vazada e rasgos dos pinos das aletas",
+  "id_interno": "tcRiser"
  },
  {
-  "id": "tcSup_E",
-  "arquivo": "base_e_top_hat/tcSup_E__Top_hat_suporte_de_canto_de_tras_igual_ao_da_frente_lado_E_espelhada.stl",
-  "descricao": "Top hat - suporte de canto de tras (TD) - igual ao da frente - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Suporte_Trilho_1de3_Tras_Preto.stl",
+  "descricao": "Top hat - suporte do trilho lateral 1/3 (tras) - 123 mm",
+  "id_interno": "thTrA"
  },
  {
-  "id": "tcRiser_E",
-  "arquivo": "base_e_top_hat/tcRiser_E__Riser_lateral_D_espelho_do_da_frente_janela_vazada_e_rasgos_dos_pinos__espelhada.stl",
-  "descricao": "Riser lateral D (1 de 2) - espelho do da frente, janela vazada e rasgos dos pinos das aletas - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Suporte_Trilho_2de3_Meio_Preto.stl",
+  "descricao": "Top hat - suporte do trilho lateral 2/3 (meio, com o parafuso central) - 123 mm + linguetas",
+  "id_interno": "thTrC"
  },
  {
-  "id": "tcMolAl_E",
-  "arquivo": "base_e_top_hat/tcMolAl_E__Moldura_verde_da_abertura_das_aletas_tras_lado_E_espelhada.stl",
-  "descricao": "Moldura verde da abertura das aletas - tras (espelho) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatD_Suporte_Trilho_3de3_Frente_Preto.stl",
+  "descricao": "Top hat - suporte do trilho lateral 3/3 (frente) - 123 mm",
+  "id_interno": "thTrB"
  },
  {
-  "id": "tcBanda_E",
-  "arquivo": "base_e_top_hat/tcBanda_E__Banda_do_topo_lateral_tras_lado_E_espelhada.stl",
-  "descricao": "Banda do topo lateral - tras (espelho da da frente) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Aleta_Frente_1de3_Preto.stl",
+  "descricao": "Aleta reta movel 1/3 - janela da frente (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)",
+  "id_interno": "alF1_E"
  },
  {
-  "id": "tcApoio_E",
-  "arquivo": "base_e_top_hat/tcApoio_E__Apoio_do_acrilico_no_topo_tras_lado_E_espelhada.stl",
-  "descricao": "Apoio do acrilico no topo - tras (Z -211 a 60, passa por cima do parafuso de Z 0) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Aleta_Frente_2de3_Preto.stl",
+  "descricao": "Aleta reta movel 2/3 - janela da frente (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)",
+  "id_interno": "alF2_E"
  },
  {
-  "id": "tcMolI_E",
-  "arquivo": "base_e_top_hat/tcMolI_E__Moldura_do_painel_lateral_acabamento_tras_lado_E_espelhada.stl",
-  "descricao": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Aleta_Frente_3de3_Preto.stl",
+  "descricao": "Aleta reta movel 3/3 - janela da frente (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)",
+  "id_interno": "alF3_E"
  },
  {
-  "id": "tcMolS_E",
-  "arquivo": "base_e_top_hat/tcMolS_E__Moldura_do_painel_lateral_acabamento_tras_lado_E_espelhada.stl",
-  "descricao": "Moldura do painel lateral (cima) + acabamento - tras (espelho) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Aleta_Tras_1de3_Preto.stl",
+  "descricao": "Aleta reta movel 1/3 - janela da tras (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)",
+  "id_interno": "alT1_E"
  },
  {
-  "id": "tcAcr_E",
-  "arquivo": "acrilico_referencia/tcAcr_E__Painel_lateral_acrilico_simetrico_lado_E_espelhada.stl",
-  "descricao": "Painel lateral - acrilico simetrico (frente e tras iguais) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Aleta_Tras_2de3_Preto.stl",
+  "descricao": "Aleta reta movel 2/3 - janela da tras (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)",
+  "id_interno": "alT2_E"
  },
  {
-  "id": "cantT2_E",
-  "arquivo": "base_e_top_hat/cantT2_E__Cantoneira_de_tras_espelho_da_da_frente_lado_E_espelhada.stl",
-  "descricao": "Cantoneira de tras (L) - espelho da da frente (passa por cima das placas de tras) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Aleta_Tras_3de3_Preto.stl",
+  "descricao": "Aleta reta movel 3/3 - janela da tras (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)",
+  "id_interno": "alT3_E"
  },
  {
-  "id": "exCaixa_E",
-  "arquivo": "base_e_top_hat/exCaixa_E__Exaustor_caixa_dos_sopradores_lado_E_espelhada.stl",
-  "descricao": "Exaustor - caixa dos sopradores (na janela do suporte; imprime com a placa dos furos na mesa) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Apoio_Acrilico_Frente_Preto.stl",
+  "descricao": "Apoio do acrilico no topo - frente (Z 60 a 211, rabo de andorinha na emenda) - lado E (espelho)",
+  "id_interno": "apB_E"
  },
  {
-  "id": "exCamara_E",
-  "arquivo": "base_e_top_hat/exCamara_E__Exaustor_camara_de_ar_atras_das_aletas_e_suporte_do_servo_lado_E_espelhada.stl",
-  "descricao": "Exaustor - camara de ar atras das aletas e suporte do servo (imprime com a parede de dentro na mesa) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Apoio_Acrilico_Tras_Preto.stl",
+  "descricao": "Apoio do acrilico no topo - tras (Z -211 a 60, passa por cima do parafuso de Z 0) - lado E (espelho)",
+  "id_interno": "tcApoio_E"
  },
  {
-  "id": "exSupServo_E",
-  "arquivo": "base_e_top_hat/exSupServo_E__Exaustor_lateral_suporte_do_servo_lado_E_espelhada.stl",
-  "descricao": "Exaustor lateral - suporte do servo (aparafusado de lado nas 2 barras do suporte do trilho do meio) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Banda_Frente_Preto.stl",
+  "descricao": "Banda do topo lateral - frente (Z 0 a 219,9, emenda no vinco do centro) - lado E (espelho)",
+  "id_interno": "bandaB_E"
  },
  {
-  "id": "exHornF_E",
-  "arquivo": "base_e_top_hat/exHornF_E__Exaustor_braco_do_servo_com_pino_lado_E_espelhada.stl",
-  "descricao": "Exaustor - braco do servo com pino (janela da frente) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Banda_Tras_Preto.stl",
+  "descricao": "Banda do topo lateral - tras (espelho da da frente) - lado E (espelho)",
+  "id_interno": "tcBanda_E"
  },
  {
-  "id": "exBarF_E",
-  "arquivo": "base_e_top_hat/exBarF_E__Exaustor_barra_de_ligacao_dupla_e_pinos_lado_E_espelhada.stl",
-  "descricao": "Exaustor - barra de ligacao dupla (as 2 janelas numa peca so, travessa entre elas, aba do servo no centro) e pinos - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Exaustor_Barra_Aletas_Preto.stl",
+  "descricao": "Exaustor - barra de ligacao dupla (as 2 janelas numa peca so, travessa entre elas, aba do servo no centro) e pinos - lado E (espelho)",
+  "id_interno": "exBarF_E"
  },
  {
-  "id": "pfMolI_E",
-  "arquivo": "base_e_top_hat/pfMolI_E__Painel_do_fundo_moldura_de_baixo_acabamento_lado_E_espelhada.stl",
-  "descricao": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Exaustor_Braco_Servo_Preto.stl",
+  "descricao": "Exaustor - braco do servo com pino (janela da frente) - lado E (espelho)",
+  "id_interno": "exHornF_E"
  },
  {
-  "id": "pfMolS_E",
-  "arquivo": "base_e_top_hat/pfMolS_E__Painel_do_fundo_moldura_de_cima_acabamento_lado_E_espelhada.stl",
-  "descricao": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Exaustor_Caixa_Sopradores_Preto.stl",
+  "descricao": "Exaustor - caixa dos sopradores (na janela do suporte; imprime com a placa dos furos na mesa) - lado E (espelho)",
+  "id_interno": "exCaixa_E"
  },
  {
-  "id": "pfFch_E",
-  "arquivo": "base_e_top_hat/pfFch_E__Painel_do_fundo_fechos_snap_latch_lado_E_espelhada.stl",
-  "descricao": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Exaustor_Camara_Ar_Preto.stl",
+  "descricao": "Exaustor - camara de ar atras das aletas e suporte do servo (imprime com a parede de dentro na mesa) - lado E (espelho)",
+  "id_interno": "exCamara_E"
  },
  {
-  "id": "u_esp1_E",
-  "arquivo": "extensao_de_cima/u_esp1_E__SV08_Espinha_FD_Lateral_Black_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Exaustor_Suporte_Servo_Preto.stl",
+  "descricao": "Exaustor lateral - suporte do servo (aparafusado de lado nas 2 barras do suporte do trilho do meio) - lado E (espelho)",
+  "id_interno": "exSupServo_E"
  },
  {
-  "id": "u_esp1s_E",
-  "arquivo": "extensao_de_cima/u_esp1s_E__SV08_Espinha_FD_Lateral_Black_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Moldura_Aletas_Frente_Verde.stl",
+  "descricao": "Moldura verde da abertura das aletas - frente - lado E (espelho)",
+  "id_interno": "molAl47_E"
  },
  {
-  "id": "u_espF_E",
-  "arquivo": "extensao_de_cima/u_espF_E__SV08_Espinha_FD_Frente_Black_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Moldura_Aletas_Tras_Verde.stl",
+  "descricao": "Moldura verde da abertura das aletas - tras (espelho) - lado E (espelho)",
+  "id_interno": "tcMolAl_E"
  },
  {
-  "id": "u_espFs_E",
-  "arquivo": "extensao_de_cima/u_espFs_E__SV08_Espinha_FD_Frente_Black_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Riser_Frente_Preto.stl",
+  "descricao": "Riser lateral D (2 de 2) - Z 0 a 219,9, emenda no centro dentro do vinco; abertura 138 x 44; ponta entra 10 mm na espinha - lado E (espelho)",
+  "id_interno": "riser47_E"
  },
  {
-  "id": "u_v72_E",
-  "arquivo": "extensao_de_cima/u_v72_E__Verde_de_baixo_da_coluna_recua_2_mm_onde_e_larga_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Riser_Tras_Preto.stl",
+  "descricao": "Riser lateral D (1 de 2) - espelho do da frente, janela vazada e rasgos dos pinos das aletas - lado E (espelho)",
+  "id_interno": "tcRiser_E"
  },
  {
-  "id": "u_vsup1_E",
-  "arquivo": "extensao_de_cima/u_vsup1_E__Verde_de_cima_da_coluna_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Verde de cima da coluna (quina igual a da 72) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Suporte_Trilho_1de3_Tras_Preto.stl",
+  "descricao": "Top hat - suporte do trilho lateral 1/3 (tras) - 123 mm - lado E (espelho)",
+  "id_interno": "thTrA_E"
  },
  {
-  "id": "u_capa74_E",
-  "arquivo": "extensao_de_cima/u_capa74_E__74_capa_central_D_1_parafuso_no_centro_de_cada_aba_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - 74_capa_central_D - 1 parafuso no centro de cada aba - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Suporte_Trilho_2de3_Meio_Preto.stl",
+  "descricao": "Top hat - suporte do trilho lateral 2/3 (meio, com o parafuso central) - 123 mm + linguetas - lado E (espelho)",
+  "id_interno": "thTrC_E"
  },
  {
-  "id": "u_fbI_E",
-  "arquivo": "extensao_de_cima/u_fbI_E__Faixa_batente_sob_a_espinha_baixo_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Faixa batente sob a espinha - baixo (batente do acrilico) - lado E (espelho)"
+  "arquivo": "05_TopHat/SV08_TopHat_LatE_Suporte_Trilho_3de3_Frente_Preto.stl",
+  "descricao": "Top hat - suporte do trilho lateral 3/3 (frente) - 123 mm - lado E (espelho)",
+  "id_interno": "thTrB_E"
  },
  {
-  "id": "u_fbS_E",
-  "arquivo": "extensao_de_cima/u_fbS_E__Faixa_batente_sob_a_espinha_cima_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Faixa batente sob a espinha - cima - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Batente_Acrilico_Inferior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - baixo (batente do acrilico)",
+  "id_interno": "u_fbI"
  },
  {
-  "id": "u_acI_E",
-  "arquivo": "extensao_de_cima/u_acI_E__Moldura_do_painel_lateral_acabamento_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral + acabamento (peca unica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Batente_Acrilico_Superior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - cima",
+  "id_interno": "u_fbS"
  },
  {
-  "id": "u_acS_E",
-  "arquivo": "extensao_de_cima/u_acS_E__Moldura_do_painel_lateral_acabamento_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral (cima) + acabamento (peca unica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Cantoneira_Meio_Preto.stl",
+  "descricao": "74_capa_central_D - 1 parafuso no centro de cada aba",
+  "id_interno": "u_capa74"
  },
  {
-  "id": "u_tcMolI_E",
-  "arquivo": "extensao_de_cima/u_tcMolI_E__Moldura_do_painel_lateral_acabamento_tras_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral + acabamento - tras (espelho da peca da frente) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Capa_Inferior_Verde.stl",
+  "descricao": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo)",
+  "id_interno": "u_v72"
  },
  {
-  "id": "u_tcMolS_E",
-  "arquivo": "extensao_de_cima/u_tcMolS_E__Moldura_do_painel_lateral_acabamento_tras_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Moldura do painel lateral (cima) + acabamento - tras (espelho) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Capa_Superior_Verde.stl",
+  "descricao": "Verde de cima da coluna (quina igual a da 72)",
+  "id_interno": "u_vsup1"
  },
  {
-  "id": "u_tcEL_E",
-  "arquivo": "extensao_de_cima/u_tcEL_E__Coluna_TD_espinha_lateral_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Espinha_Frente_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+  "id_interno": "u_espF"
  },
  {
-  "id": "u_tcELs_E",
-  "arquivo": "extensao_de_cima/u_tcELs_E__Coluna_TD_espinha_lateral_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha lateral (2 de 2) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Espinha_Frente_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha)",
+  "id_interno": "u_espFs"
  },
  {
-  "id": "u_tcEF_E",
-  "arquivo": "extensao_de_cima/u_tcEF_E__Coluna_TD_espinha_de_tras_com_o_labio_do_acrilico_do_fundo_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+  "id_interno": "u_esp1"
  },
  {
-  "id": "u_tcEFs_E",
-  "arquivo": "extensao_de_cima/u_tcEFs_E__Coluna_TD_espinha_de_tras_labio_do_acrilico_e_bolso_da_parede_do_top_h_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FD_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha)",
+  "id_interno": "u_esp1s"
  },
  {
-  "id": "u_tcV72_E",
-  "arquivo": "extensao_de_cima/u_tcV72_E__Coluna_TD_verde_de_baixo_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Batente_Acrilico_Inferior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - baixo (batente do acrilico) - lado E (espelho)",
+  "id_interno": "u_fbI_E"
  },
  {
-  "id": "u_tcVs_E",
-  "arquivo": "extensao_de_cima/u_tcVs_E__Coluna_TD_verde_de_cima_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - verde de cima - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Batente_Acrilico_Superior_Preto.stl",
+  "descricao": "Faixa batente sob a espinha - cima - lado E (espelho)",
+  "id_interno": "u_fbS_E"
  },
  {
-  "id": "u_tcCapa_E",
-  "arquivo": "extensao_de_cima/u_tcCapa_E__Coluna_TD_cantoneira_do_meio_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - cantoneira do meio - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Cantoneira_Meio_Preto.stl",
+  "descricao": "74_capa_central_D - 1 parafuso no centro de cada aba - lado E (espelho)",
+  "id_interno": "u_capa74_E"
  },
  {
-  "id": "u_tcFb_E",
-  "arquivo": "extensao_de_cima/u_tcFb_E__Coluna_TD_faixa_batente_do_acrilico_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Coluna TD - faixa batente do acrilico (baixo e cima) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Capa_Inferior_Verde.stl",
+  "descricao": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo) - lado E (espelho)",
+  "id_interno": "u_v72_E"
  },
  {
-  "id": "u_pfMolI_E",
-  "arquivo": "extensao_de_cima/u_pfMolI_E__Painel_do_fundo_moldura_de_baixo_acabamento_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Capa_Superior_Verde.stl",
+  "descricao": "Verde de cima da coluna (quina igual a da 72) - lado E (espelho)",
+  "id_interno": "u_vsup1_E"
  },
  {
-  "id": "u_pfMolS_E",
-  "arquivo": "extensao_de_cima/u_pfMolS_E__Painel_do_fundo_moldura_de_cima_acabamento_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Espinha_Frente_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)",
+  "id_interno": "u_espF_E"
  },
  {
-  "id": "u_mold1_E",
-  "arquivo": "extensao_de_cima/u_mold1_E__Porta_direita_moldura_de_baixo_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Espinha_Frente_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)",
+  "id_interno": "u_espFs_E"
  },
  {
-  "id": "u_mold2_E",
-  "arquivo": "extensao_de_cima/u_mold2_E__Porta_direita_moldura_de_cima_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)",
+  "id_interno": "u_esp1_E"
  },
  {
-  "id": "u_acr1_E",
-  "arquivo": "acrilico_referencia/u_acr1_E__Porta_direita_acrilico_3_mm_do_tamanho_da_porta_atras_da_moldura_encos_espelhada.stl",
-  "descricao": "Extensao de cima - Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_FE_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)",
+  "id_interno": "u_esp1s_E"
  },
  {
-  "id": "u_bat1_E",
-  "arquivo": "extensao_de_cima/u_bat1_E__Batente_lateral_da_porta_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Batente lateral da porta - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Batente_Acrilico_Preto.stl",
+  "descricao": "Coluna TD - faixa batente do acrilico (baixo e cima)",
+  "id_interno": "u_tcFb"
  },
  {
-  "id": "u_fechos_E",
-  "arquivo": "extensao_de_cima/u_fechos_E__Fechos_snap_latch_do_painel_lateral_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Fechos snap latch do painel lateral (frente e tras, Y 190 e 430) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Cantoneira_Meio_Preto.stl",
+  "descricao": "Coluna TD - cantoneira do meio",
+  "id_interno": "u_tcCapa"
  },
  {
-  "id": "u_pfFch_E",
-  "arquivo": "extensao_de_cima/u_pfFch_E__Painel_do_fundo_fechos_snap_latch_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Capa_Inferior_Verde.stl",
+  "descricao": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica)",
+  "id_interno": "u_tcV72"
  },
  {
-  "id": "u_dobr_E",
-  "arquivo": "extensao_de_cima/u_dobr_E__Dobradicas_K1_270_graus_da_porta_direita_folhas_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Capa_Superior_Verde.stl",
+  "descricao": "Coluna TD - verde de cima",
+  "id_interno": "u_tcVs"
  },
  {
-  "id": "u_dobrG_E",
-  "arquivo": "extensao_de_cima/u_dobrG_E__Dobradicas_K1_gaiola_das_engrenagens_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Dobradicas K1 - gaiola das engrenagens - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Espinha_Fundo_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo",
+  "id_interno": "u_tcEF"
  },
  {
-  "id": "u_pux_E",
-  "arquivo": "extensao_de_cima/u_pux_E__Porta_direita_puxador_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Porta direita - puxador - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Espinha_Fundo_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat",
+  "id_interno": "u_tcEFs"
  },
  {
-  "id": "u_tcAcr_E",
-  "arquivo": "acrilico_referencia/u_tcAcr_E__Painel_lateral_acrilico_simetrico_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - Painel lateral - acrilico simetrico (frente e tras iguais) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica)",
+  "id_interno": "u_tcEL"
  },
  {
-  "id": "u_apLatF_E",
-  "arquivo": "extensao_de_cima/u_apLatF_E__apoios_do_acrilico_da_lateral_presos_na_barra_2020_com_porca_T_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - apoios do acrilico da lateral (baixo e cima, metade da frente), presos na barra 2020 com porca T - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TD_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (2 de 2)",
+  "id_interno": "u_tcELs"
  },
  {
-  "id": "u_apLatT_E",
-  "arquivo": "extensao_de_cima/u_apLatT_E__apoios_do_acrilico_da_lateral_presos_na_barra_2020_com_porca_T_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - apoios do acrilico da lateral (baixo e cima, metade de tras), presos na barra 2020 com porca T - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Batente_Acrilico_Preto.stl",
+  "descricao": "Coluna TD - faixa batente do acrilico (baixo e cima) - lado E (espelho)",
+  "id_interno": "u_tcFb_E"
  },
  {
-  "id": "u_apFundo_E",
-  "arquivo": "extensao_de_cima/u_apFundo_E__apoios_do_acrilico_do_fundo_presos_na_barra_2020_com_porca_T_lado_E_espelhada.stl",
-  "descricao": "Extensao de cima - apoios do acrilico do fundo (baixo e cima), presos na barra 2020 com porca T - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Cantoneira_Meio_Preto.stl",
+  "descricao": "Coluna TD - cantoneira do meio - lado E (espelho)",
+  "id_interno": "u_tcCapa_E"
  },
  {
-  "id": "u_batPorta_E",
-  "arquivo": "extensao_de_cima/u_batPorta_E__batentes_de_baixo_e_de_cima_da_porta_presos_na_barra_2020_com_porca_T__espelhada.stl",
-  "descricao": "Extensao de cima - batentes de baixo e de cima da porta, presos na barra 2020 com porca T - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Capa_Inferior_Verde.stl",
+  "descricao": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica) - lado E (espelho)",
+  "id_interno": "u_tcV72_E"
  },
  {
-  "id": "pR_E",
-  "arquivo": "base_e_top_hat/pR_E__Frente_placa_preta_do_lado_lado_E_espelhada.stl",
-  "descricao": "Frente - placa preta do lado (X 125 a 258) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Capa_Superior_Verde.stl",
+  "descricao": "Coluna TD - verde de cima - lado E (espelho)",
+  "id_interno": "u_tcVs_E"
  },
  {
-  "id": "fS_E",
-  "arquivo": "base_e_top_hat/fS_E__Frente_faixa_verde_de_cima_lado_E_espelhada.stl",
-  "descricao": "Frente - faixa verde de cima - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Espinha_Fundo_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo - lado E (espelho)",
+  "id_interno": "u_tcEF_E"
  },
  {
-  "id": "fA_E",
-  "arquivo": "base_e_top_hat/fA_E__Frente_asa_verde_com_bolsao_lado_E_espelhada.stl",
-  "descricao": "Frente - asa verde com bolsao - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Espinha_Fundo_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat - lado E (espelho)",
+  "id_interno": "u_tcEFs_E"
  },
  {
-  "id": "pLA_E",
-  "arquivo": "base_e_top_hat/pLA_E__Lateral_placa_preta_de_tras_lado_E_espelhada.stl",
-  "descricao": "Lateral - placa preta de tras - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Espinha_Lateral_1de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica) - lado E (espelho)",
+  "id_interno": "u_tcEL_E"
  },
  {
-  "id": "pLB_E",
-  "arquivo": "base_e_top_hat/pLB_E__Lateral_placa_preta_da_frente_lado_E_espelhada.stl",
-  "descricao": "Lateral - placa preta da frente - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Coluna_TE_Espinha_Lateral_2de2_Preto.stl",
+  "descricao": "Coluna TD - espinha lateral (2 de 2) - lado E (espelho)",
+  "id_interno": "u_tcELs_E"
  },
  {
-  "id": "eD_E",
-  "arquivo": "base_e_top_hat/eD_E__Estrutura_frente_D_lado_E_espelhada.stl",
-  "descricao": "Estrutura frente D (escondida) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Acrilico_3mm.stl",
+  "descricao": "Painel do fundo - acrilico 3 mm (470,4 x 448,1), de borda a borda da espinha de tras",
+  "id_interno": "u_pfAcr"
  },
  {
-  "id": "v3_E",
-  "arquivo": "base_e_top_hat/v3_E__Verde_3_central_lado_E_espelhada.stl",
-  "descricao": "Verde 3 - central (em volta do apoio de mao) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Apoios_Acrilico_D_Preto.stl",
+  "descricao": "apoios do acrilico do fundo (baixo e cima), presos na barra 2020 com porca T",
+  "id_interno": "u_apFundo"
  },
  {
-  "id": "v24_E",
-  "arquivo": "base_e_top_hat/v24_E__Asas_verdes_de_baixo_lado_E_espelhada.stl",
-  "descricao": "Asas verdes de baixo (com bolsao) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Apoios_Acrilico_E_Preto.stl",
+  "descricao": "apoios do acrilico do fundo (baixo e cima), presos na barra 2020 com porca T - lado E (espelho)",
+  "id_interno": "u_apFundo_E"
  },
  {
-  "id": "v15_E",
-  "arquivo": "base_e_top_hat/v15_E__Faixas_verdes_de_cima_lado_E_espelhada.stl",
-  "descricao": "Faixas verdes de cima - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Fechos_D_Preto.stl",
+  "descricao": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna)",
+  "id_interno": "u_pfFch"
  },
  {
-  "id": "cantF_E",
-  "arquivo": "base_e_top_hat/cantF_E__Cantoneira_da_frente_lado_E_espelhada.stl",
-  "descricao": "Cantoneira da frente (L, peca unica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Fechos_E_Preto.stl",
+  "descricao": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna) - lado E (espelho)",
+  "id_interno": "u_pfFch_E"
  },
  {
-  "id": "eLT_E",
-  "arquivo": "base_e_top_hat/eLT_E__Estrutura_lateral_de_tras_lado_E_espelhada.stl",
-  "descricao": "Estrutura lateral de tras (escondida) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Moldura_Inferior_D_Preto.stl",
+  "descricao": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto)",
+  "id_interno": "u_pfMolI"
  },
  {
-  "id": "eLM_E",
-  "arquivo": "base_e_top_hat/eLM_E__Estrutura_lateral_do_meio_lado_E_espelhada.stl",
-  "descricao": "Estrutura lateral do meio (escondida) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Moldura_Inferior_E_Preto.stl",
+  "descricao": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto) - lado E (espelho)",
+  "id_interno": "u_pfMolI_E"
  },
  {
-  "id": "eLF_E",
-  "arquivo": "base_e_top_hat/eLF_E__Estrutura_lateral_da_frente_lado_E_espelhada.stl",
-  "descricao": "Estrutura lateral da frente (escondida) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Moldura_Superior_D_Preto.stl",
+  "descricao": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral)",
+  "id_interno": "u_pfMolS"
  },
  {
-  "id": "esp1_E",
-  "arquivo": "base_e_top_hat/esp1_E__SV08_Espinha_FD_Lateral_Black_lado_E_espelhada.stl",
-  "descricao": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Fundo_Moldura_Superior_E_Preto.stl",
+  "descricao": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral) - lado E (espelho)",
+  "id_interno": "u_pfMolS_E"
  },
  {
-  "id": "esp1s_E",
-  "arquivo": "base_e_top_hat/esp1s_E__SV08_Espinha_FD_Lateral_Black_lado_E_espelhada.stl",
-  "descricao": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Acrilico_3mm.stl",
+  "descricao": "Painel lateral - acrilico simetrico (frente e tras iguais)",
+  "id_interno": "u_tcAcr"
  },
  {
-  "id": "espF_E",
-  "arquivo": "base_e_top_hat/espF_E__SV08_Espinha_FD_Frente_Black_lado_E_espelhada.stl",
-  "descricao": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Apoios_Acrilico_Frente_Preto.stl",
+  "descricao": "apoios do acrilico da lateral (baixo e cima, metade da frente), presos na barra 2020 com porca T",
+  "id_interno": "u_apLatF"
  },
  {
-  "id": "espFs_E",
-  "arquivo": "base_e_top_hat/espFs_E__SV08_Espinha_FD_Frente_Black_lado_E_espelhada.stl",
-  "descricao": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Apoios_Acrilico_Tras_Preto.stl",
+  "descricao": "apoios do acrilico da lateral (baixo e cima, metade de tras), presos na barra 2020 com porca T",
+  "id_interno": "u_apLatT"
  },
  {
-  "id": "v72_E",
-  "arquivo": "base_e_top_hat/v72_E__Verde_de_baixo_da_coluna_recua_2_mm_onde_e_larga_lado_E_espelhada.stl",
-  "descricao": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Fechos_Preto.stl",
+  "descricao": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430)",
+  "id_interno": "u_fechos"
  },
  {
-  "id": "vsup1_E",
-  "arquivo": "base_e_top_hat/vsup1_E__Verde_de_cima_da_coluna_lado_E_espelhada.stl",
-  "descricao": "Verde de cima da coluna (quina igual a da 72) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Moldura_Frente_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento (peca unica)",
+  "id_interno": "u_acI"
  },
  {
-  "id": "capa74_E",
-  "arquivo": "base_e_top_hat/capa74_E__74_capa_central_D_1_parafuso_no_centro_de_cada_aba_lado_E_espelhada.stl",
-  "descricao": "74_capa_central_D - 1 parafuso no centro de cada aba - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Moldura_Frente_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento (peca unica)",
+  "id_interno": "u_acS"
  },
  {
-  "id": "fbI_E",
-  "arquivo": "base_e_top_hat/fbI_E__Faixa_batente_sob_a_espinha_baixo_lado_E_espelhada.stl",
-  "descricao": "Faixa batente sob a espinha - baixo (batente do acrilico) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Moldura_Tras_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente)",
+  "id_interno": "u_tcMolI"
  },
  {
-  "id": "acI_E",
-  "arquivo": "base_e_top_hat/acI_E__Moldura_do_painel_lateral_acabamento_lado_E_espelhada.stl",
-  "descricao": "Moldura do painel lateral + acabamento (peca unica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_D_Moldura_Tras_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento - tras (espelho)",
+  "id_interno": "u_tcMolS"
  },
  {
-  "id": "acS_E",
-  "arquivo": "base_e_top_hat/acS_E__Moldura_do_painel_lateral_acabamento_lado_E_espelhada.stl",
-  "descricao": "Moldura do painel lateral (cima) + acabamento (peca unica) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Acrilico_3mm.stl",
+  "descricao": "Painel lateral - acrilico simetrico (frente e tras iguais) - lado E (espelho)",
+  "id_interno": "u_tcAcr_E"
  },
  {
-  "id": "thCantF_E",
-  "arquivo": "base_e_top_hat/thCantF_E__Top_hat_cantoneira_de_cima_da_frente_peca_limpa_faces_de_dentro_planas_espelhada.stl",
-  "descricao": "Top hat - cantoneira de cima da frente (FD) - peca limpa, faces de dentro planas - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Apoios_Acrilico_Frente_Preto.stl",
+  "descricao": "apoios do acrilico da lateral (baixo e cima, metade da frente), presos na barra 2020 com porca T - lado E (espelho)",
+  "id_interno": "u_apLatF_E"
  },
  {
-  "id": "riser47_E",
-  "arquivo": "base_e_top_hat/riser47_E__Riser_lateral_D_Z_0_a_219_9_emenda_no_centro_dentro_do_vinco_abertura__espelhada.stl",
-  "descricao": "Riser lateral D (2 de 2) - Z 0 a 219,9, emenda no centro dentro do vinco; abertura 138 x 44; ponta entra 10 mm na espinha - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Apoios_Acrilico_Tras_Preto.stl",
+  "descricao": "apoios do acrilico da lateral (baixo e cima, metade de tras), presos na barra 2020 com porca T - lado E (espelho)",
+  "id_interno": "u_apLatT_E"
  },
  {
-  "id": "molAl47_E",
-  "arquivo": "base_e_top_hat/molAl47_E__Moldura_verde_da_abertura_das_aletas_frente_lado_E_espelhada.stl",
-  "descricao": "Moldura verde da abertura das aletas - frente - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Fechos_Preto.stl",
+  "descricao": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430) - lado E (espelho)",
+  "id_interno": "u_fechos_E"
  },
  {
-  "id": "alF1_E",
-  "arquivo": "base_e_top_hat/alF1_E__Aleta_reta_movel_1_3_janela_da_frente_lado_E_espelhada.stl",
-  "descricao": "Aleta reta movel 1/3 - janela da frente (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Moldura_Frente_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento (peca unica) - lado E (espelho)",
+  "id_interno": "u_acI_E"
  },
  {
-  "id": "alF2_E",
-  "arquivo": "base_e_top_hat/alF2_E__Aleta_reta_movel_2_3_janela_da_frente_lado_E_espelhada.stl",
-  "descricao": "Aleta reta movel 2/3 - janela da frente (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Moldura_Frente_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento (peca unica) - lado E (espelho)",
+  "id_interno": "u_acS_E"
  },
  {
-  "id": "alF3_E",
-  "arquivo": "base_e_top_hat/alF3_E__Aleta_reta_movel_3_3_janela_da_frente_lado_E_espelhada.stl",
-  "descricao": "Aleta reta movel 3/3 - janela da frente (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Moldura_Tras_Inferior_Preto.stl",
+  "descricao": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente) - lado E (espelho)",
+  "id_interno": "u_tcMolI_E"
  },
  {
-  "id": "alT1_E",
-  "arquivo": "base_e_top_hat/alT1_E__Aleta_reta_movel_1_3_janela_da_tras_lado_E_espelhada.stl",
-  "descricao": "Aleta reta movel 1/3 - janela da tras (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Lateral_E_Moldura_Tras_Superior_Preto.stl",
+  "descricao": "Moldura do painel lateral (cima) + acabamento - tras (espelho) - lado E (espelho)",
+  "id_interno": "u_tcMolS_E"
  },
  {
-  "id": "alT2_E",
-  "arquivo": "base_e_top_hat/alT2_E__Aleta_reta_movel_2_3_janela_da_tras_lado_E_espelhada.stl",
-  "descricao": "Aleta reta movel 2/3 - janela da tras (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_Batente_Meio_Preto.stl",
+  "descricao": "Batente do meio: regua reta preta 18,5 x 296 x 3 mm, aparafusada atras da porta D (a E fecha encostando nela; abre a E primeiro)",
+  "id_interno": "u_reguaPorta"
  },
  {
-  "id": "alT3_E",
-  "arquivo": "base_e_top_hat/alT3_E__Aleta_reta_movel_3_3_janela_da_tras_lado_E_espelhada.stl",
-  "descricao": "Aleta reta movel 3/3 - janela da tras (2,4 mm, meia-esquadria nas bordas) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Acrilico_3mm.stl",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras)",
+  "id_interno": "u_acr1"
  },
  {
-  "id": "thSupF_E",
-  "arquivo": "base_e_top_hat/thSupF_E__Top_hat_suporte_de_canto_da_frente_ressaltos_da_lateral_encurtados_ate_espelhada.stl",
-  "descricao": "Top hat - suporte de canto da frente (FD) - ressaltos da lateral encurtados ate X 279,6 - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Batente_Lateral_Preto.stl",
+  "descricao": "Batente lateral da porta",
+  "id_interno": "u_bat1"
  },
  {
-  "id": "thTrA_E",
-  "arquivo": "base_e_top_hat/thTrA_E__Top_hat_suporte_do_trilho_lateral_1_3_123_mm_lado_E_espelhada.stl",
-  "descricao": "Top hat - suporte do trilho lateral 1/3 (tras) - 123 mm - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Batentes_Cima_Baixo_Preto.stl",
+  "descricao": "batentes de baixo e de cima da porta, presos na barra 2020 com porca T",
+  "id_interno": "u_batPorta"
  },
  {
-  "id": "thTrC_E",
-  "arquivo": "base_e_top_hat/thTrC_E__Top_hat_suporte_do_trilho_lateral_2_3_123_mm_linguetas_lado_E_espelhada.stl",
-  "descricao": "Top hat - suporte do trilho lateral 2/3 (meio, com o parafuso central) - 123 mm + linguetas - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Dobradicas_Folhas_Preto.stl",
+  "descricao": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas",
+  "id_interno": "u_dobr"
  },
  {
-  "id": "thTrB_E",
-  "arquivo": "base_e_top_hat/thTrB_E__Top_hat_suporte_do_trilho_lateral_3_3_123_mm_lado_E_espelhada.stl",
-  "descricao": "Top hat - suporte do trilho lateral 3/3 (frente) - 123 mm - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Dobradicas_Gaiola_Preto.stl",
+  "descricao": "Dobradicas K1 - gaiola das engrenagens",
+  "id_interno": "u_dobrG"
  },
  {
-  "id": "bandaPin_E",
-  "arquivo": "base_e_top_hat/bandaPin_E__Pinos_da_emenda_da_banda_do_topo_lado_E_espelhada.stl",
-  "descricao": "Pinos da emenda da banda do topo (2x 3 x 3 x 16) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Moldura_Inferior_Preto.stl",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)",
+  "id_interno": "u_mold1"
  },
  {
-  "id": "bandaB_E",
-  "arquivo": "base_e_top_hat/bandaB_E__Banda_do_topo_lateral_frente_lado_E_espelhada.stl",
-  "descricao": "Banda do topo lateral - frente (Z 0 a 219,9, emenda no vinco do centro) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Moldura_Superior_Preto.stl",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)",
+  "id_interno": "u_mold2"
  },
  {
-  "id": "apB_E",
-  "arquivo": "base_e_top_hat/apB_E__Apoio_do_acrilico_no_topo_frente_lado_E_espelhada.stl",
-  "descricao": "Apoio do acrilico no topo - frente (Z 60 a 211, rabo de andorinha na emenda) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_D_Puxador_Preto.stl",
+  "descricao": "Porta direita - puxador",
+  "id_interno": "u_pux"
  },
  {
-  "id": "fbS_E",
-  "arquivo": "base_e_top_hat/fbS_E__Faixa_batente_sob_a_espinha_cima_lado_E_espelhada.stl",
-  "descricao": "Faixa batente sob a espinha - cima - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Acrilico_3mm.stl",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras) - lado E (espelho)",
+  "id_interno": "u_acr1_E"
  },
  {
-  "id": "mold1_E",
-  "arquivo": "base_e_top_hat/mold1_E__Porta_direita_moldura_de_baixo_lado_E_espelhada.stl",
-  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Batente_Lateral_Preto.stl",
+  "descricao": "Batente lateral da porta - lado E (espelho)",
+  "id_interno": "u_bat1_E"
  },
  {
-  "id": "mold2_E",
-  "arquivo": "base_e_top_hat/mold2_E__Porta_direita_moldura_de_cima_lado_E_espelhada.stl",
-  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Batentes_Cima_Baixo_Preto.stl",
+  "descricao": "batentes de baixo e de cima da porta, presos na barra 2020 com porca T - lado E (espelho)",
+  "id_interno": "u_batPorta_E"
  },
  {
-  "id": "pux_E",
-  "arquivo": "base_e_top_hat/pux_E__Porta_direita_puxador_lado_E_espelhada.stl",
-  "descricao": "Porta direita - puxador - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Dobradicas_Folhas_Preto.stl",
+  "descricao": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas - lado E (espelho)",
+  "id_interno": "u_dobr_E"
  },
  {
-  "id": "placaTopo_E",
-  "arquivo": "base_e_top_hat/placaTopo_E__Placa_do_rebaixo_da_travessa_de_cima_preenche_ate_a_face_da_impressora_espelhada.stl",
-  "descricao": "Placa do rebaixo da travessa de cima (atras da faixa de cima da porta de baixo): preenche ate a face da impressora (Z 273,5) para a espuma de vedacao; 3 furos cegos de 2,5 mm por tras para parafusar por dentro - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Dobradicas_Gaiola_Preto.stl",
+  "descricao": "Dobradicas K1 - gaiola das engrenagens - lado E (espelho)",
+  "id_interno": "u_dobrG_E"
  },
  {
-  "id": "dobr_E",
-  "arquivo": "base_e_top_hat/dobr_E__Dobradicas_K1_270_graus_da_porta_direita_folhas_lado_E_espelhada.stl",
-  "descricao": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Moldura_Inferior_Preto.stl",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "id_interno": "u_mold1_E"
  },
  {
-  "id": "dobrG_E",
-  "arquivo": "base_e_top_hat/dobrG_E__Dobradicas_K1_gaiola_das_engrenagens_lado_E_espelhada.stl",
-  "descricao": "Dobradicas K1 - gaiola das engrenagens - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Moldura_Superior_Preto.stl",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "id_interno": "u_mold2_E"
  },
  {
-  "id": "fechos_E",
-  "arquivo": "base_e_top_hat/fechos_E__Fechos_snap_latch_do_painel_lateral_lado_E_espelhada.stl",
-  "descricao": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430) - lado E (espelho)"
- },
- {
-  "id": "acr1_E",
-  "arquivo": "acrilico_referencia/acr1_E__Porta_direita_acrilico_3_mm_do_tamanho_da_porta_atras_da_moldura_encos_espelhada.stl",
-  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras) - lado E (espelho)"
- },
- {
-  "id": "bat1_E",
-  "arquivo": "base_e_top_hat/bat1_E__Batente_lateral_da_porta_lado_E_espelhada.stl",
-  "descricao": "Batente lateral da porta - lado E (espelho)"
+  "arquivo": "06_Extensao/SV08_Ext_Porta_E_Puxador_Preto.stl",
+  "descricao": "Porta direita - puxador - lado E (espelho)",
+  "id_interno": "u_pux_E"
  }
 ]

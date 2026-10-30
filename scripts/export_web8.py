@@ -301,6 +301,10 @@ for p in parts:
     _novos.append(dict(id=pid+'_E',label=p['label']+' - lado E (espelho)',grp=p['grp'],col=p['col'],mesh=me,mode=p['mode'],hint=p.get('hint','')))
 parts+=_novos
 print('espelhadas',len(_novos))
+exec(open('names.py').read())        # NOMES: rotulo = nome padronizado SV08_...; a descricao antiga vai para a dica
+for p in parts:
+    nm=nome(p['id'])
+    if nm and p['grp']=='prop': p['hint']=p['label']; p['label']=nm[1]
 exec(open('meshclean.py').read())
 for p in parts:
     if p['grp']!='ref':
@@ -311,7 +315,7 @@ meta=[]; bufs=[]; off=0
 for p in parts:
     m=p['mesh']; v=np.asarray(m.vertices,np.float32); f=np.asarray(m.faces,np.uint32).ravel()
     vb=v.tobytes(); fb=f.tobytes()
-    meta.append(dict(id=p['id'],label=p['label'],grp=p['grp'],col=p['col'],mode=p['mode'],vo=off,vn=len(v),fo=off+len(vb),fn=len(f)))
+    meta.append(dict(id=p['id'],label=p['label'],desc=p.get('hint',''),grp=p['grp'],col=p['col'],mode=p['mode'],vo=off,vn=len(v),fo=off+len(vb),fn=len(f)))
     bufs+= [vb,fb]; off+=len(vb)+len(fb)
 blob=b''.join(bufs)
 gz=gzip.compress(blob,9)

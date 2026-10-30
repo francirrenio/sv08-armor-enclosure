@@ -7,11 +7,21 @@ portas duplas, top hat com exaustor de aletas e extensao de cima nos perfis 2020
 
 - `visualizador/visualizador_carenagem.html` - visualizador 3D da proposta (abre direto no navegador, sem internet para os modelos).
 - `visualizador/lista_materiais.html` - lista de parafusos (externos e internos), porcas, insertos, acrilicos, pecas compradas e pecas impressas.
-- `stl/` - um STL por peca final da proposta (`base_e_top_hat`, `extensao_de_cima`; `acrilico_referencia` so para conferir o corte).
-  As pecas com `_espelhada` no nome sao o lado esquerdo (espelho do direito). `stl/indice.json` liga cada arquivo a descricao.
+- `stl/` - um STL por peca final, em pastas por conjunto (`01_Base`, `02_Colunas`, `03_Paineis`, `04_Portas`, `05_TopHat`,
+  `06_Extensao`). Os `_Acrilico_3mm` sao so referencia de corte. `stl/indice.json` liga cada arquivo a descricao da peca.
 - `scripts/` - geracao das pecas em Python (trimesh + manifold3d) e montagem do visualizador.
 - `docs/` - anotacoes de projeto.
 - `dados/` (fora do git) - malhas de trabalho (.pkl), STEP/STL de referencia da impressora e renders. Fica so na pasta local.
+
+## Nomes das pecas
+
+Padrao `SV08_<Conjunto>_<Posicao>_<Peca>_<Cor>`, igual no visualizador, na lista de materiais, nos STLs e no Fusion.
+
+- Lado: `D` direita, `E` esquerda (vista de frente). A peca do lado E e o espelho da do lado D.
+- Cantos/colunas: `FD` frente direita, `FE` frente esquerda, `TD` tras direita, `TE` tras esquerda.
+- `LatD` / `LatE`: lateral direita / esquerda. `Ext_`: extensao de cima (perfis 2020).
+- Partes de uma peca dividida: `1de2`, `2de3`...; cor no fim (`Preto`, `Verde`, `Branco`).
+- A tabela completa de nomes esta em `scripts/names.py`.
 
 ## Regerar
 

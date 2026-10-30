@@ -239,7 +239,7 @@ async function loadData(){
     const l=document.createElement('label'); const cb=document.createElement('input'); cb.type='checkbox'; cb.checked=true; cb.id='p-'+m.id;
     cb.onchange=()=>{parts[m.id].user=cb.checked;apply();};
     const sw=document.createElement('span'); sw.className='sw'; sw.style.background=m.col;
-    const tx=document.createElement('span'); tx.className='pln'; tx.textContent=m.label; tx.title='Clique para selecionar a peça';
+    const tx=document.createElement('span'); tx.className='pln'; tx.textContent=m.label; tx.title=(m.desc?m.desc+' · ':'')+'Clique para selecionar a peça';
     tx.onclick=e=>{e.preventDefault(); selectPart(m.id);};      // clicar no nome seleciona (serve para pecas transparentes, que nao recebem clique no 3D)
     l.id='pl-'+m.id; l.append(cb,sw,tx); pl.appendChild(l);
   }
@@ -304,7 +304,7 @@ async function loadData(){
   if(window.claude&&window.claude.use) window.claude.use('downloads').then(d=>{dlns=d; if(d){expBtn.disabled=false; expBtn.title='';}}).catch(()=>{});
   expBtn.onclick=async()=>{ if(!selId||!dlns) return; const p=parts[selId], g=p.mesh.geometry;
     const pos=g.attributes.position.array, idx=g.index.array, off=p.o.position;
-    const safe=(p.m.label||p.m.id).normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^A-Za-z0-9_-]+/g,'_').replace(/^_+|_+$/g,'').slice(0,60)||p.m.id;
+    const safe=(p.m.label||p.m.id).normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^A-Za-z0-9_-]+/g,'_').replace(/^_+|_+$/g,'').slice(0,90)||p.m.id;
     msg.textContent='Gerando…';
     try{ const step=new TextEncoder().encode(meshToStep(safe,pos,idx,off)); const stl=meshToStl(pos,idx,off);
       const zip=makeZip([{name:safe+'.step',data:step},{name:safe+'.stl',data:stl}]);
@@ -317,7 +317,7 @@ async function loadData(){
     selId=id; msg.textContent='';
     if(!id||!parts[id]){ selp.hidden=true; tctl.detach(); return; }
     parts[id].mat.emissive.setHex(0x3a3a10);
-    selp.hidden=false; document.getElementById('sel-n').textContent=parts[id].m.label; showOff(); clearBtn();
+    selp.hidden=false; document.getElementById('sel-n').textContent=parts[id].m.label; document.getElementById('sel-d').textContent=(parts[id].m.desc||'').replace(/ - lado E \(espelho\)$/,' (lado E, espelho)'); showOff(); clearBtn();
     if(dragMode) attachG(id); else tctl.detach();
     const l=document.getElementById('pl-'+id); if(!l) return;
     const det=l.closest('details'); if(det) det.open=true;
