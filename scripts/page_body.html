@@ -1,0 +1,54 @@
+<div class="app">
+  <header>
+    <div>
+      <h1>Frente e laterais — direita e esquerda</h1>
+      <div class="sub">Modelo de discussão montado a partir do Fusion. Nada foi alterado no arquivo.</div>
+    </div>
+    <div class="seg" role="group" aria-label="O que mostrar">
+      <button id="m-atual" aria-pressed="false">Atual</button>
+      <button id="m-prop" aria-pressed="true">Proposta</button>
+      <button id="m-cmp" aria-pressed="false">Comparar</button>
+    </div>
+  </header>
+  <div class="view">
+    <canvas id="c" aria-label="Vista 3D do pé da coluna"></canvas>
+    <div class="tools">
+      <button class="btn" id="b-iso">Isolar item</button>
+      <button class="btn" id="b-base">Base transparente</button>
+      <button class="btn" id="b-reset">Vista geral</button>
+      <button class="btn" id="b-anim">Animar aletas</button>
+    </div>
+    <div class="selp" id="selp" hidden>
+      <div class="selh"><b id="sel-n"></b><button class="x" id="sel-x" type="button" aria-label="Fechar">×</button></div>
+      <div class="selrow"><button class="btn sm" id="sel-drag" type="button">Arrastar no 3D</button>
+        <label class="stp">passo <select id="sel-step"><option>0.5</option><option selected>1</option><option>5</option><option>10</option></select> mm</label></div>
+      <div class="axes" id="sel-axes"></div>
+      <div class="selrow"><button class="btn sm" id="sel-clear" type="button" aria-pressed="false">Transparente</button><button class="btn sm" id="sel-clearall" type="button">Tirar todas as transparências</button></div>
+      <div class="selrow"><button class="btn sm" id="sel-back" type="button">Voltar ao lugar</button><button class="btn sm" id="sel-all" type="button">Voltar todas</button></div>
+      <div class="selrow"><button class="btn sm" id="sel-exp" type="button">Exportar STEP</button><span class="msg" id="sel-msg"></span></div>
+    </div>
+    <div class="tag mono" id="tag">Arraste para girar · role para aproximar · toque numa peça para ver o nome</div>
+  </div>
+  <aside>
+    <div class="lbl">Ajustes desta rodada</div>
+    <div id="items" style="display:grid;gap:8px"></div>
+    <p class="note" id="pend"></p>
+    <details>
+      <summary>Corte</summary>
+      <div class="sec">
+        <label for="s-on">Ligar</label><input type="checkbox" id="s-on">
+        <label for="s-ax">Eixo</label>
+        <select id="s-ax"><option value="x">X (lateral)</option><option value="y">Y (altura)</option><option value="z" selected>Z (frente)</option></select>
+        <label for="s-v">Posição</label><input type="range" id="s-v" min="0" max="1000" value="500">
+        <span></span><span class="mono" id="s-txt"></span>
+      </div>
+    </details>
+    <details>
+      <summary>Peças</summary>
+      <div class="parts" id="parts"></div>
+    </details>
+  </aside>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/TransformControls.js"></script>

@@ -1,0 +1,6 @@
+# dados de trabalho (malhas .pkl, STEP/STL de referencia, renders) - ficam so na pasta local
+dados/
+__pycache__/
+*.pkl
+_transferencia/
+dados_extract.log

@@ -1,0 +1,57 @@
+import pickle, json, gzip, base64, numpy as np, trimesh
+exec(open('load.py').read()); exec(open('geo.py').read())
+P=pickle.load(open('P.pkl','rb'))
+def clipm(m,lo,hi):
+    for ax in range(3):
+        n=[0,0,0]; n[ax]=1; m=m.slice_plane([lo[0],lo[1],lo[2]],n,cap=True)
+        n=[0,0,0]; n[ax]=-1; m=m.slice_plane([hi[0],hi[1],hi[2]],n,cap=True)
+    return m
+LO=np.array([-20,-5,90]); HI=np.array([300,200,300])
+parts=[]  # (id, label, group, color, mesh, mode, extra)
+def add(pid,label,grp,col,m,mode='ambos',hint=''):
+    parts.append(dict(id=pid,label=label,grp=grp,col=col,mesh=m,mode=mode,hint=hint))
+# referencia
+add('base','Base da impressora (STEP)','ref','#cfc8b8',clipm(M['Corpo1@071.stl'],LO,HI))
+add('perfil','Perfil de canto (STEP)','ref','#b7bec7',clipm(M['Corpo1@072.stl'],LO,HI))
+# comuns
+add('p01','65_suporte_P01_D','comum','#8a8f96',M['65_suporte_P01_D'])
+add('espinha','SV08_Espinha_L_FD_Black','comum','#2f6fd6',clipm(M['SV08_Espinha_L_FD_Black'],LO,HI))
+add('c22','10_chassis_2_2','comum','#3b3d40',M['10_chassis_2_2'])
+add('led','LED (referencia)','comum','#f2b13c',clipm(M['LED_REFERENCIA'],LO,HI))
+add('regua','Regua_baixo_central_mod','comum','#5f8a2a',clipm(M['Regua_baixo_central_mod'],LO,HI))
+add('placa','22_lateral_placa_3_1_D','comum','#4f6f2a',M['22_lateral_placa_3_1_D'])
+add('faixa','22_lateral_faixa_3_1_D','comum','#4f6f2a',M['22_lateral_faixa_3_1_D'])
+add('mollat','Moldura painel lateral (SV-40-01)','comum','#8fa6d9',clipm(M['SV-40-01c inf +u'],LO,HI))
+hw=[k for k in M if k.startswith(('M3_22_','M3_lateral_apoio','46_M3x10','46_porca'))]
+add('hw','Parafusos e porcas existentes','comum','#c43b3b',U(*[M[k] for k in hw]))
+# atual
+add('roxa0','10_chassis_3_1 (roxa)','atual','#8e3bc4',M['10_chassis_3_1'],'atual')
+add('cen0','10_chassis_2_1 (central)','atual','#55585c',M['10_chassis_2_1'],'atual')
+add('lar0','21_lateral_chassis_2_D (laranja)','atual','#ee8a1c',M['21_lateral_chassis_2_D'],'atual')
+add('sol0','Soleira / degrau (SV-30-03c 2/2)','atual','#7fa0d0',M['SV-30-03c soleira (degrau) (2 de 2)'],'atual')
+add('mold0','Porta direita - moldura','atual','#c6a3df',clipm(M['SV-30-01a moldura (1 de 2)'],LO,HI),'atual')
+add('acr0','Porta direita - acrilico','atual','#bfe3f5',clipm(M['SV-30-01b acrilico 225x453'],LO,HI),'atual')
+add('ved0','Porta direita - vedacao','atual','#cc3b3b',clipm(M['SV-30-01c vedacao EPDM 8x2'],LO,HI),'atual')
+add('bat0','Batente lateral da porta','atual','#7a7a7a',clipm(M['SV-30-03a batente lateral D (1 de 3)'],LO,HI),'atual')
+# proposta
+add('roxa1','10_chassis_3_1 (roxa) - proposta','prop','#8e3bc4',P['10_chassis_3_1 (proposta)'],'prop')
+add('verde1','Friso verde da base (novo)','prop','#35a853',P['SV08_Friso_Base_FD_Green (novo)'],'prop')
+add('cen1','10_chassis_2_1 (central) - proposta','prop','#55585c',P['10_chassis_2_1 (proposta)'],'prop')
+add('lar1','21_lateral_chassis_2_D (laranja) - proposta','prop','#ee8a1c',P['21_lateral_chassis_2_D (proposta)'],'prop')
+add('sol1','Soleira / degrau - proposta','prop','#7fa0d0',P['SV-30-03c soleira (degrau) (proposta)'],'prop')
+add('mold1','Porta direita - moldura (mais baixa)','prop','#c6a3df',clipm(P['SV-30-01a moldura (proposta)'],LO,HI),'prop')
+add('acr1','Porta direita - acrilico (mais baixo)','prop','#bfe3f5',clipm(P['SV-30-01b acrilico (proposta)'],LO,HI),'prop')
+add('ved1','Porta direita - vedacao','prop','#cc3b3b',clipm(P['SV-30-01c vedacao EPDM (proposta)'],LO,HI),'prop')
+add('bat1','Batente lateral da porta','prop','#7a7a7a',clipm(P['SV-30-03a batente lateral D (proposta)'],LO,HI),'prop')
+add('hw1','Parafusos M3 novos','prop','#e0402f',P['M3 novos (proposta)'],'prop')
+meta=[]; bufs=[]; off=0
+for p in parts:
+    m=p['mesh']; v=np.asarray(m.vertices,np.float32); f=np.asarray(m.faces,np.uint32).ravel()
+    vb=v.tobytes(); fb=f.tobytes()
+    meta.append(dict(id=p['id'],label=p['label'],grp=p['grp'],col=p['col'],mode=p['mode'],vo=off,vn=len(v),fo=off+len(vb),fn=len(f)))
+    bufs+= [vb,fb]; off+=len(vb)+len(fb)
+blob=b''.join(bufs)
+gz=gzip.compress(blob,9)
+open('web_meta.json','w').write(json.dumps(meta))
+open('web_blob.b64','w').write(base64.b64encode(gz).decode())
+print(len(blob)/1e6,'MB raw', len(gz)/1e6,'MB gz', sum(x['fn']//3 for x in meta),'tris')

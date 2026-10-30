@@ -1,0 +1,22 @@
+# SV08 Armor Enclosure
+
+Carenagem termica (camara fechada para ABS/ASA) para a impressora 3D Sovol SV08: colunas, paineis de acrilico 3 mm,
+portas duplas, top hat com exaustor de aletas e extensao de cima nos perfis 2020 do DragonSlider.
+
+## Pastas
+
+- `visualizador/visualizador_carenagem.html` - visualizador 3D da proposta (abre direto no navegador, sem internet para os modelos).
+- `visualizador/lista_materiais.html` - lista de parafusos (externos e internos), porcas, insertos, acrilicos, pecas compradas e pecas impressas.
+- `stl/` - um STL por peca final da proposta (`base_e_top_hat`, `extensao_de_cima`; `acrilico_referencia` so para conferir o corte).
+  As pecas com `_espelhada` no nome sao o lado esquerdo (espelho do direito). `stl/indice.json` liga cada arquivo a descricao.
+- `scripts/` - geracao das pecas em Python (trimesh + manifold3d) e montagem do visualizador.
+- `docs/` - anotacoes de projeto.
+- `dados/` (fora do git) - malhas de trabalho (.pkl), STEP/STL de referencia da impressora e renders. Fica so na pasta local.
+
+## Regerar
+
+Os scripts usam o caminho absoluto da pasta de trabalho original (`/tmp/claude-0/.../scratchpad/pe`); para rodar de novo,
+ajuste esse caminho para a copia em `dados/scratchpad/pe`. Ordem usual: os `build_*.py` / `portas_*.py` da parte mexida,
+depois `export_web8.py` (gera parts.pkl), `make_page.py` (gera o visualizador) e `chk_ext.py` (interferencias).
+
+Nada desta proposta foi aplicado ainda no Fusion 360.

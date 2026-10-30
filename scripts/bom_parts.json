@@ -1,0 +1,2537 @@
+[
+{
+"id": "tfE",
+"label": "Topo da frente - parede preta E (com trilho de acessorios; emenda em X 0 dentro de um rasgo)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+242,
+102,
+13
+]
+],
+"vol": 139.2
+},
+{
+"id": "tfD",
+"label": "Topo da frente - parede preta D (com trilho; rabo de andorinha escondido sob o hexagono)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+246,
+102,
+13
+]
+],
+"vol": 139.7
+},
+{
+"id": "tfC",
+"label": "Topo da frente - hexagono verde central",
+"n": 1,
+"E": false,
+"sizes": [
+[
+222,
+63,
+4
+]
+],
+"vol": 45.0
+},
+{
+"id": "tfL",
+"label": "Topo da frente - verdes dos lados (ponta para o centro)",
+"n": 2,
+"E": false,
+"sizes": [
+[
+122,
+63,
+4
+],
+[
+122,
+63,
+4
+]
+],
+"vol": 50.9
+},
+{
+"id": "tcEL",
+"label": "Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+264,
+51,
+11
+]
+],
+"vol": 100.3
+},
+{
+"id": "tcELs",
+"label": "Coluna TD - espinha lateral (2 de 2)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+287,
+51,
+11
+]
+],
+"vol": 111.1
+},
+{
+"id": "tcEF",
+"label": "Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo",
+"n": 1,
+"E": true,
+"sizes": [
+[
+264,
+46,
+10
+]
+],
+"vol": 70.7
+},
+{
+"id": "tcEFs",
+"label": "Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat",
+"n": 1,
+"E": true,
+"sizes": [
+[
+287,
+46,
+10
+]
+],
+"vol": 71.6
+},
+{
+"id": "tcV72",
+"label": "Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+245,
+59,
+41
+]
+],
+"vol": 77.1
+},
+{
+"id": "tcVs",
+"label": "Coluna TD - verde de cima",
+"n": 1,
+"E": true,
+"sizes": [
+[
+232,
+59,
+42
+]
+],
+"vol": 75.0
+},
+{
+"id": "tcCapa",
+"label": "Coluna TD - cantoneira do meio",
+"n": 1,
+"E": true,
+"sizes": [
+[
+76,
+58,
+56
+]
+],
+"vol": 56.4
+},
+{
+"id": "tcFb",
+"label": "Coluna TD - faixa batente do acrilico (baixo e cima)",
+"n": 3,
+"E": true,
+"sizes": [
+[
+297,
+24,
+12
+],
+[
+181,
+24,
+12
+],
+[
+24,
+20,
+2
+]
+],
+"vol": 110.6
+},
+{
+"id": "tcCant",
+"label": "Top hat - cantoneira de cima de tras (TD) - igual a da frente",
+"n": 1,
+"E": true,
+"sizes": [
+[
+111,
+76,
+58
+]
+],
+"vol": 117.1
+},
+{
+"id": "tcSup",
+"label": "Top hat - suporte de canto de tras (TD) - igual ao da frente",
+"n": 1,
+"E": true,
+"sizes": [
+[
+99,
+95,
+69
+]
+],
+"vol": 58.4
+},
+{
+"id": "tcRiser",
+"label": "Riser lateral D (1 de 2) - espelho do da frente, janela vazada e rasgos dos pinos das aletas",
+"n": 1,
+"E": true,
+"sizes": [
+[
+230,
+76,
+7
+]
+],
+"vol": 71.9
+},
+{
+"id": "tcMolAl",
+"label": "Moldura verde da abertura das aletas - tras (espelho)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+160,
+66,
+4
+]
+],
+"vol": 17.4
+},
+{
+"id": "tcBanda",
+"label": "Banda do topo lateral - tras (espelho da da frente)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+29,
+12
+]
+],
+"vol": 49.9
+},
+{
+"id": "tcApoio",
+"label": "Apoio do acrilico no topo - tras (Z -211 a 60, passa por cima do parafuso de Z 0)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+271,
+34,
+12
+]
+],
+"vol": 82.6
+},
+{
+"id": "tcMolI",
+"label": "Moldura do painel lateral + acabamento - tras (espelho da peca da frente)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+249,
+220,
+3
+]
+],
+"vol": 16.5
+},
+{
+"id": "tcMolS",
+"label": "Moldura do painel lateral (cima) + acabamento - tras (espelho)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+199,
+3
+]
+],
+"vol": 19.3
+},
+{
+"id": "tcAcr",
+"label": "Painel lateral - acrilico simetrico (frente e tras iguais)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+452,
+440,
+3
+]
+],
+"vol": 596.1
+},
+{
+"id": "cantT2",
+"label": "Cantoneira de tras (L) - espelho da da frente (passa por cima das placas de tras)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+101,
+94,
+56
+]
+],
+"vol": 111.6
+},
+{
+"id": "tbPC",
+"label": "Traseira de baixo - placa preta central (X -125 a 125)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+250,
+81,
+7
+]
+],
+"vol": 89.2
+},
+{
+"id": "tbPD",
+"label": "Traseira de baixo - placa preta do lado D (X 125 a 258)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+133,
+81,
+7
+]
+],
+"vol": 52.5
+},
+{
+"id": "tbPE",
+"label": "Traseira de baixo - placa preta do lado E (X -258 a -125, com a janela da tomada)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+133,
+81,
+7
+]
+],
+"vol": 47.7
+},
+{
+"id": "tbVC",
+"label": "Traseira de baixo - hexagono verde central (140 x 68)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+138,
+68,
+4
+]
+],
+"vol": 28.3
+},
+{
+"id": "tbVS",
+"label": "Traseira de baixo - faixas verdes de cima",
+"n": 2,
+"E": false,
+"sizes": [
+[
+169,
+23,
+4
+],
+[
+169,
+23,
+4
+]
+],
+"vol": 26.1
+},
+{
+"id": "tbVA",
+"label": "Traseira de baixo - asas verdes (D com bolsao; E com a moldura da tomada)",
+"n": 2,
+"E": false,
+"sizes": [
+[
+175,
+39,
+4
+],
+[
+175,
+39,
+4
+]
+],
+"vol": 31.5
+},
+{
+"id": "tbMol",
+"label": "Traseira de baixo - moldura preta da tomada (1,5 acima da verde)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+82,
+32,
+5
+]
+],
+"vol": 6.1
+},
+{
+"id": "tbAS03",
+"label": "Tomada AS03 (C14 + fusivel + chave) - referencia: corpo de 33 mm atras do painel",
+"n": 1,
+"E": false,
+"sizes": [
+[
+62,
+35,
+31
+]
+],
+"vol": 43.1
+},
+{
+"id": "tbEst",
+"label": "Traseira de baixo - estruturas escondidas (4, apoios nos bolsos de tras da base)",
+"n": 4,
+"E": false,
+"sizes": [
+[
+205,
+81,
+15
+],
+[
+179,
+81,
+15
+],
+[
+88,
+81,
+15
+],
+[
+81,
+58,
+3
+]
+],
+"vol": 156.2
+},
+{
+"id": "trE",
+"label": "Traseira do top hat - parede preta E (trilho com rasgos, aletas de enfeite fechadas)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+242,
+104,
+13
+]
+],
+"vol": 152.8
+},
+{
+"id": "trD",
+"label": "Traseira do top hat - parede preta D (ilha preta no hexagono, rabo de andorinha da emenda)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+246,
+104,
+13
+]
+],
+"vol": 153.4
+},
+{
+"id": "trH",
+"label": "Traseira - hexagono verde (moldura da ilha preta)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+78,
+66,
+4
+]
+],
+"vol": 7.7
+},
+{
+"id": "trL",
+"label": "Traseira - verdes dos lados (abracam as aletas, ponta para o centro)",
+"n": 2,
+"E": false,
+"sizes": [
+[
+200,
+66,
+4
+],
+[
+200,
+66,
+4
+]
+],
+"vol": 40.8
+},
+{
+"id": "trEE",
+"label": "Traseira do top hat - estruturas escondidas E e D (aba na travessa, nervura parafusada na barra dos suportes)",
+"n": 2,
+"E": false,
+"sizes": [
+[
+295,
+110,
+13
+],
+[
+180,
+110,
+13
+]
+],
+"vol": 205.4
+},
+{
+"id": "supT1",
+"label": "Top hat - suporte do trilho de tras 1/3 (E) - 123 mm",
+"n": 1,
+"E": false,
+"sizes": [
+[
+123,
+69,
+17
+]
+],
+"vol": 37.4
+},
+{
+"id": "supT2",
+"label": "Top hat - suporte do trilho de tras 2/3 (meio, com o parafuso central) - 123 mm + linguetas",
+"n": 1,
+"E": false,
+"sizes": [
+[
+139,
+69,
+17
+]
+],
+"vol": 40.2
+},
+{
+"id": "supT3",
+"label": "Top hat - suporte do trilho de tras 3/3 (D) - 123 mm",
+"n": 1,
+"E": false,
+"sizes": [
+[
+123,
+69,
+17
+]
+],
+"vol": 37.4
+},
+{
+"id": "exCaixa",
+"label": "Exaustor - caixa dos sopradores (na janela do suporte; imprime com a placa dos furos na mesa)",
+"n": 2,
+"E": true,
+"sizes": [
+[
+100,
+48,
+12
+],
+[
+100,
+48,
+12
+]
+],
+"vol": 21.7
+},
+{
+"id": "exCamara",
+"label": "Exaustor - camara de ar atras das aletas e suporte do servo (imprime com a parede de dentro na mesa)",
+"n": 2,
+"E": true,
+"sizes": [
+[
+139,
+62,
+17
+],
+[
+139,
+62,
+17
+]
+],
+"vol": 30.2
+},
+{
+"id": "exSopr",
+"label": "Exaustor lateral - sopradores 4020 (2 por janela, 4 por lateral), entrada para baixo",
+"n": 4,
+"E": true,
+"sizes": [
+[
+40,
+40,
+20
+],
+[
+40,
+40,
+20
+],
+[
+40,
+40,
+20
+],
+[
+40,
+40,
+20
+]
+],
+"vol": 123.2
+},
+{
+"id": "exServo",
+"label": "Exaustor lateral - servo SG90 das aletas (1 por lateral, no centro entre as 2 janelas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+32,
+26,
+12
+]
+],
+"vol": 6.7
+},
+{
+"id": "exSupServo",
+"label": "Exaustor lateral - suporte do servo (aparafusado de lado nas 2 barras do suporte do trilho do meio)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+61,
+40,
+16
+]
+],
+"vol": 4.8
+},
+{
+"id": "exHornF",
+"label": "Exaustor - braco do servo com pino (janela da frente)",
+"n": 0,
+"E": true,
+"sizes": [],
+"vol": 0.0
+},
+{
+"id": "exBarF",
+"label": "Exaustor - barra de ligacao dupla (as 2 janelas numa peca so, travessa entre elas, aba do servo no centro) e pinos",
+"n": 1,
+"E": true,
+"sizes": [
+[
+116,
+49,
+14
+]
+],
+"vol": 3.8
+},
+{
+"id": "pfAcr",
+"label": "Painel do fundo - acrilico 3 mm (470,4 x 448,1), de borda a borda da espinha de tras",
+"n": 1,
+"E": false,
+"sizes": [
+[
+470,
+448,
+3
+]
+],
+"vol": 632.0
+},
+{
+"id": "pfMolI",
+"label": "Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+249,
+235,
+3
+]
+],
+"vol": 17.1
+},
+{
+"id": "pfMolS",
+"label": "Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+235,
+199,
+3
+]
+],
+"vol": 20.2
+},
+{
+"id": "pfFch",
+"label": "Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna)",
+"n": 6,
+"E": true,
+"sizes": [
+[
+44,
+24,
+8
+],
+[
+44,
+24,
+8
+],
+[
+34,
+16,
+8
+],
+[
+34,
+16,
+8
+],
+[
+26,
+13,
+11
+],
+[
+26,
+13,
+11
+]
+],
+"vol": 13.8
+},
+{
+"id": "u_esp1",
+"label": "Extensao de cima - SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+194,
+51,
+11
+]
+],
+"vol": 71.5
+},
+{
+"id": "u_esp1s",
+"label": "Extensao de cima - SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+156,
+51,
+11
+]
+],
+"vol": 55.9
+},
+{
+"id": "u_espF",
+"label": "Extensao de cima - SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+194,
+33,
+10
+]
+],
+"vol": 42.3
+},
+{
+"id": "u_espFs",
+"label": "Extensao de cima - SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+156,
+33,
+10
+]
+],
+"vol": 33.5
+},
+{
+"id": "u_v72",
+"label": "Extensao de cima - Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+175,
+59,
+41
+]
+],
+"vol": 55.7
+},
+{
+"id": "u_vsup1",
+"label": "Extensao de cima - Verde de cima da coluna (quina igual a da 72)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+165,
+59,
+42
+]
+],
+"vol": 53.0
+},
+{
+"id": "u_capa74",
+"label": "Extensao de cima - 74_capa_central_D - 1 parafuso no centro de cada aba",
+"n": 1,
+"E": true,
+"sizes": [
+[
+76,
+58,
+40
+]
+],
+"vol": 38.8
+},
+{
+"id": "u_fbI",
+"label": "Extensao de cima - Faixa batente sob a espinha - baixo (batente do acrilico)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+133,
+56,
+17
+]
+],
+"vol": 45.0
+},
+{
+"id": "u_fbS",
+"label": "Extensao de cima - Faixa batente sob a espinha - cima",
+"n": 1,
+"E": true,
+"sizes": [
+[
+195,
+56,
+17
+]
+],
+"vol": 70.4
+},
+{
+"id": "u_acI",
+"label": "Extensao de cima - Moldura do painel lateral + acabamento (peca unica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+167,
+3
+]
+],
+"vol": 13.5
+},
+{
+"id": "u_acS",
+"label": "Extensao de cima - Moldura do painel lateral (cima) + acabamento (peca unica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+159,
+3
+]
+],
+"vol": 18.0
+},
+{
+"id": "u_tcMolI",
+"label": "Extensao de cima - Moldura do painel lateral + acabamento - tras (espelho da peca da frente)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+167,
+3
+]
+],
+"vol": 13.5
+},
+{
+"id": "u_tcMolS",
+"label": "Extensao de cima - Moldura do painel lateral (cima) + acabamento - tras (espelho)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+159,
+3
+]
+],
+"vol": 18.0
+},
+{
+"id": "u_tcEL",
+"label": "Extensao de cima - Coluna TD - espinha lateral (1 de 2, espelho da FD, sem os furos da dobradica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+194,
+51,
+11
+]
+],
+"vol": 71.7
+},
+{
+"id": "u_tcELs",
+"label": "Extensao de cima - Coluna TD - espinha lateral (2 de 2)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+156,
+51,
+11
+]
+],
+"vol": 55.9
+},
+{
+"id": "u_tcEF",
+"label": "Extensao de cima - Coluna TD - espinha de tras (1 de 2) - com o labio do acrilico do fundo",
+"n": 1,
+"E": true,
+"sizes": [
+[
+194,
+46,
+10
+]
+],
+"vol": 50.3
+},
+{
+"id": "u_tcEFs",
+"label": "Extensao de cima - Coluna TD - espinha de tras (2 de 2) - labio do acrilico e bolso da parede do top hat",
+"n": 1,
+"E": true,
+"sizes": [
+[
+156,
+46,
+10
+]
+],
+"vol": 39.4
+},
+{
+"id": "u_tcV72",
+"label": "Extensao de cima - Coluna TD - verde de baixo (espelho da FD, sem os furos da dobradica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+175,
+59,
+41
+]
+],
+"vol": 55.8
+},
+{
+"id": "u_tcVs",
+"label": "Extensao de cima - Coluna TD - verde de cima",
+"n": 1,
+"E": true,
+"sizes": [
+[
+165,
+59,
+42
+]
+],
+"vol": 53.1
+},
+{
+"id": "u_tcCapa",
+"label": "Extensao de cima - Coluna TD - cantoneira do meio",
+"n": 1,
+"E": true,
+"sizes": [
+[
+76,
+58,
+40
+]
+],
+"vol": 38.8
+},
+{
+"id": "u_tcFb",
+"label": "Extensao de cima - Coluna TD - faixa batente do acrilico (baixo e cima)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+328,
+56,
+17
+]
+],
+"vol": 115.5
+},
+{
+"id": "u_pfMolI",
+"label": "Extensao de cima - Painel do fundo - moldura de baixo + acabamento (igual a da lateral, alargada no trecho reto)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+235,
+167,
+3
+]
+],
+"vol": 14.1
+},
+{
+"id": "u_pfMolS",
+"label": "Extensao de cima - Painel do fundo - moldura de cima + acabamento (ate Y 529,3, na altura da lateral)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+235,
+159,
+3
+]
+],
+"vol": 18.8
+},
+{
+"id": "u_mold1",
+"label": "Extensao de cima - Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+234,
+133,
+8
+]
+],
+"vol": 46.4
+},
+{
+"id": "u_mold2",
+"label": "Extensao de cima - Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+234,
+194,
+8
+]
+],
+"vol": 56.4
+},
+{
+"id": "u_acr1",
+"label": "Extensao de cima - Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+326,
+233,
+3
+]
+],
+"vol": 227.5
+},
+{
+"id": "u_bat1",
+"label": "Extensao de cima - Batente lateral da porta",
+"n": 1,
+"E": true,
+"sizes": [
+[
+133,
+9,
+2
+]
+],
+"vol": 1.8
+},
+{
+"id": "u_fechos",
+"label": "Extensao de cima - Fechos snap latch do painel lateral (frente e tras, Y 190 e 430)",
+"n": 12,
+"E": true,
+"sizes": [
+[
+31,
+17,
+6
+],
+[
+31,
+17,
+6
+],
+[
+31,
+17,
+6
+],
+[
+31,
+17,
+6
+],
+[
+24,
+12,
+6
+],
+[
+24,
+12,
+6
+],
+[
+24,
+12,
+6
+],
+[
+24,
+12,
+6
+],
+[
+19,
+9,
+8
+],
+[
+19,
+9,
+8
+],
+[
+19,
+9,
+8
+],
+[
+19,
+9,
+8
+]
+],
+"vol": 10.1
+},
+{
+"id": "u_pfFch",
+"label": "Extensao de cima - Painel do fundo - fechos snap latch (iguais aos da lateral, Y 190 e 430, do lado da coluna)",
+"n": 6,
+"E": true,
+"sizes": [
+[
+31,
+17,
+6
+],
+[
+31,
+17,
+6
+],
+[
+24,
+12,
+6
+],
+[
+24,
+12,
+6
+],
+[
+19,
+9,
+8
+],
+[
+19,
+9,
+8
+]
+],
+"vol": 5.1
+},
+{
+"id": "u_dobr",
+"label": "Extensao de cima - Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas",
+"n": 4,
+"E": true,
+"sizes": [
+[
+68,
+29,
+17
+],
+[
+68,
+29,
+17
+],
+[
+38,
+29,
+17
+],
+[
+38,
+29,
+17
+]
+],
+"vol": 52.5
+},
+{
+"id": "u_dobrG",
+"label": "Extensao de cima - Dobradicas K1 - gaiola das engrenagens",
+"n": 2,
+"E": true,
+"sizes": [
+[
+30,
+20,
+20
+],
+[
+30,
+20,
+20
+]
+],
+"vol": 6.5
+},
+{
+"id": "u_pux",
+"label": "Extensao de cima - Porta direita - puxador",
+"n": 1,
+"E": true,
+"sizes": [
+[
+60,
+20,
+12
+]
+],
+"vol": 13.8
+},
+{
+"id": "u_reguaPorta",
+"label": "Extensao de cima - Batente do meio: regua reta preta 18,5 x 296 x 3 mm, aparafusada atras da porta D (a E fecha encostando nela; abre a E primeiro)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+296,
+18,
+3
+]
+],
+"vol": 16.2
+},
+{
+"id": "u_tcAcr",
+"label": "Extensao de cima - Painel lateral - acrilico simetrico (frente e tras iguais)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+440,
+326,
+3
+]
+],
+"vol": 429.6
+},
+{
+"id": "u_pfAcr",
+"label": "Extensao de cima - Painel do fundo - acrilico 3 mm (470,4 x 448,1), de borda a borda da espinha de tras",
+"n": 1,
+"E": false,
+"sizes": [
+[
+470,
+326,
+3
+]
+],
+"vol": 459.5
+},
+{
+"id": "u_apLatF",
+"label": "Extensao de cima - apoios do acrilico da lateral (baixo e cima, metade da frente), presos na barra 2020 com porca T",
+"n": 2,
+"E": true,
+"sizes": [
+[
+207,
+17,
+16
+],
+[
+207,
+17,
+15
+]
+],
+"vol": 106.1
+},
+{
+"id": "u_apLatT",
+"label": "Extensao de cima - apoios do acrilico da lateral (baixo e cima, metade de tras), presos na barra 2020 com porca T",
+"n": 2,
+"E": true,
+"sizes": [
+[
+207,
+17,
+16
+],
+[
+207,
+17,
+15
+]
+],
+"vol": 106.1
+},
+{
+"id": "u_apFundo",
+"label": "Extensao de cima - apoios do acrilico do fundo (baixo e cima), presos na barra 2020 com porca T",
+"n": 2,
+"E": true,
+"sizes": [
+[
+222,
+16,
+14
+],
+[
+222,
+15,
+14
+]
+],
+"vol": 92.0
+},
+{
+"id": "u_batPorta",
+"label": "Extensao de cima - batentes de baixo e de cima da porta, presos na barra 2020 com porca T",
+"n": 2,
+"E": true,
+"sizes": [
+[
+226,
+16,
+9
+],
+[
+226,
+16,
+9
+]
+],
+"vol": 63.2
+},
+{
+"id": "dsF",
+"label": "DragonSlider - estrutura 2020 (520 x 530 x 338 pela face externa, apoiada nos suportes do trilho, Y 623,4)",
+"n": 12,
+"E": false,
+"sizes": [
+[
+520,
+20,
+20
+],
+[
+520,
+20,
+20
+],
+[
+520,
+20,
+20
+],
+[
+520,
+20,
+20
+],
+[
+490,
+20,
+20
+],
+[
+490,
+20,
+20
+],
+[
+490,
+20,
+20
+],
+[
+490,
+20,
+20
+],
+[
+298,
+20,
+20
+],
+[
+298,
+20,
+20
+],
+[
+298,
+20,
+20
+],
+[
+298,
+20,
+20
+]
+],
+"vol": 1267.1
+},
+{
+"id": "tfEE",
+"label": "Topo da frente - estrutura escondida E (aba na travessa, nervura parafusada na barra dos suportes, encostos)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+295,
+102,
+13
+]
+],
+"vol": 121.0
+},
+{
+"id": "tfED",
+"label": "Topo da frente - estrutura escondida D (emenda em X 60, rabo de andorinha)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+180,
+102,
+13
+]
+],
+"vol": 70.2
+},
+{
+"id": "supF1",
+"label": "Top hat - suporte do trilho da frente 1/3 (E) - 123 mm",
+"n": 1,
+"E": false,
+"sizes": [
+[
+123,
+69,
+17
+]
+],
+"vol": 37.4
+},
+{
+"id": "supF2",
+"label": "Top hat - suporte do trilho da frente 2/3 (meio, com o parafuso central) - 123 mm + linguetas",
+"n": 1,
+"E": false,
+"sizes": [
+[
+139,
+69,
+17
+]
+],
+"vol": 40.2
+},
+{
+"id": "supF3",
+"label": "Top hat - suporte do trilho da frente 3/3 (D) - 123 mm",
+"n": 1,
+"E": false,
+"sizes": [
+[
+123,
+69,
+17
+]
+],
+"vol": 37.4
+},
+{
+"id": "pR",
+"label": "Frente - placa preta do lado (X 125 a 258)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+133,
+81,
+7
+]
+],
+"vol": 53.1
+},
+{
+"id": "gC",
+"label": "Frente - verde central com a logo e os filetes de luz",
+"n": 1,
+"E": false,
+"sizes": [
+[
+198,
+68,
+4
+]
+],
+"vol": 35.2
+},
+{
+"id": "fS",
+"label": "Frente - faixa verde de cima",
+"n": 1,
+"E": true,
+"sizes": [
+[
+143,
+23,
+4
+]
+],
+"vol": 11.0
+},
+{
+"id": "fA",
+"label": "Frente - asa verde com bolsao",
+"n": 1,
+"E": true,
+"sizes": [
+[
+149,
+39,
+4
+]
+],
+"vol": 15.0
+},
+{
+"id": "logoW",
+"label": "Frente - placa branca da logo e dos filetes (acende com a fita atras)",
+"n": 3,
+"E": false,
+"sizes": [
+[
+64,
+61,
+5
+],
+[
+58,
+13,
+5
+],
+[
+58,
+13,
+5
+]
+],
+"vol": 11.9
+},
+{
+"id": "cxLuz",
+"label": "Frente - caixa de luz (fechada, branca por dentro)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+191,
+72,
+8
+]
+],
+"vol": 14.1
+},
+{
+"id": "fita",
+"label": "Frente - fita ARGB (12 mm, 3 trechos em serie)",
+"n": 3,
+"E": false,
+"sizes": [
+[
+184,
+12,
+2
+],
+[
+52,
+12,
+2
+],
+[
+52,
+12,
+2
+]
+],
+"vol": 5.3
+},
+{
+"id": "p21",
+"label": "Frente - placa preta central (X -125 a 125)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+250,
+81,
+7
+]
+],
+"vol": 74.6
+},
+{
+"id": "pLA",
+"label": "Lateral - placa preta de tras",
+"n": 1,
+"E": true,
+"sizes": [
+[
+261,
+81,
+7
+]
+],
+"vol": 98.9
+},
+{
+"id": "pLB",
+"label": "Lateral - placa preta da frente",
+"n": 1,
+"E": true,
+"sizes": [
+[
+266,
+81,
+7
+]
+],
+"vol": 99.5
+},
+{
+"id": "eD",
+"label": "Estrutura frente D (escondida)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+88,
+81,
+15
+]
+],
+"vol": 20.7
+},
+{
+"id": "eCs",
+"label": "Estrutura central da frente - metade D (escondida)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+175,
+81,
+15
+]
+],
+"vol": 41.1
+},
+{
+"id": "eCsL",
+"label": "Estrutura central da frente - metade E (escondida)",
+"n": 1,
+"E": false,
+"sizes": [
+[
+175,
+81,
+15
+]
+],
+"vol": 42.3
+},
+{
+"id": "v3",
+"label": "Verde 3 - central (em volta do apoio de mao)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+174,
+58,
+4
+]
+],
+"vol": 20.6
+},
+{
+"id": "v24",
+"label": "Asas verdes de baixo (com bolsao)",
+"n": 2,
+"E": true,
+"sizes": [
+[
+132,
+39,
+4
+],
+[
+132,
+39,
+4
+]
+],
+"vol": 23.7
+},
+{
+"id": "v15",
+"label": "Faixas verdes de cima",
+"n": 2,
+"E": true,
+"sizes": [
+[
+163,
+23,
+4
+],
+[
+163,
+23,
+4
+]
+],
+"vol": 25.1
+},
+{
+"id": "cantF",
+"label": "Cantoneira da frente (L, peca unica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+101,
+94,
+56
+]
+],
+"vol": 111.6
+},
+{
+"id": "eLT",
+"label": "Estrutura lateral de tras (escondida)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+126,
+86,
+18
+]
+],
+"vol": 53.2
+},
+{
+"id": "eLM",
+"label": "Estrutura lateral do meio (escondida)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+280,
+86,
+18
+]
+],
+"vol": 129.1
+},
+{
+"id": "eLF",
+"label": "Estrutura lateral da frente (escondida)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+126,
+86,
+18
+]
+],
+"vol": 51.1
+},
+{
+"id": "esp1",
+"label": "SV08_Espinha_FD_Lateral_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+264,
+51,
+11
+]
+],
+"vol": 100.1
+},
+{
+"id": "esp1s",
+"label": "SV08_Espinha_FD_Lateral_Black (2 de 2, Y 345-622, espiga da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+287,
+51,
+11
+]
+],
+"vol": 110.8
+},
+{
+"id": "espF",
+"label": "SV08_Espinha_FD_Frente_Black (1 de 2, Y 81-345, encaixe da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+264,
+33,
+10
+]
+],
+"vol": 59.0
+},
+{
+"id": "espFs",
+"label": "SV08_Espinha_FD_Frente_Black (2 de 2, Y 345-622, espiga da andorinha)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+287,
+33,
+10
+]
+],
+"vol": 64.0
+},
+{
+"id": "v72",
+"label": "Verde de baixo da coluna (72) - recua 2 mm onde e larga (embaixo)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+245,
+59,
+41
+]
+],
+"vol": 77.0
+},
+{
+"id": "vsup1",
+"label": "Verde de cima da coluna (quina igual a da 72)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+232,
+59,
+42
+]
+],
+"vol": 75.0
+},
+{
+"id": "capa74",
+"label": "74_capa_central_D - 1 parafuso no centro de cada aba",
+"n": 1,
+"E": true,
+"sizes": [
+[
+76,
+58,
+56
+]
+],
+"vol": 56.4
+},
+{
+"id": "fbI",
+"label": "Faixa batente sob a espinha - baixo (batente do acrilico)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+181,
+24,
+12
+]
+],
+"vol": 42.8
+},
+{
+"id": "acI",
+"label": "Moldura do painel lateral + acabamento (peca unica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+249,
+220,
+3
+]
+],
+"vol": 16.5
+},
+{
+"id": "acS",
+"label": "Moldura do painel lateral (cima) + acabamento (peca unica)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+199,
+3
+]
+],
+"vol": 19.3
+},
+{
+"id": "thCantF",
+"label": "Top hat - cantoneira de cima da frente (FD) - peca limpa, faces de dentro planas",
+"n": 1,
+"E": true,
+"sizes": [
+[
+111,
+76,
+58
+]
+],
+"vol": 117.1
+},
+{
+"id": "riser47",
+"label": "Riser lateral D (2 de 2) - Z 0 a 219,9, emenda no centro dentro do vinco; abertura 138 x 44; ponta entra 10 mm na espinha",
+"n": 1,
+"E": true,
+"sizes": [
+[
+230,
+76,
+7
+]
+],
+"vol": 71.9
+},
+{
+"id": "molAl47",
+"label": "Moldura verde da abertura das aletas - frente",
+"n": 1,
+"E": true,
+"sizes": [
+[
+160,
+66,
+4
+]
+],
+"vol": 17.4
+},
+{
+"id": "alF1",
+"label": "Aleta reta movel 1/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+141,
+17,
+10
+]
+],
+"vol": 4.9
+},
+{
+"id": "alF2",
+"label": "Aleta reta movel 2/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+141,
+17,
+10
+]
+],
+"vol": 4.9
+},
+{
+"id": "alF3",
+"label": "Aleta reta movel 3/3 - janela da frente (2,4 mm, meia-esquadria nas bordas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+141,
+17,
+10
+]
+],
+"vol": 4.9
+},
+{
+"id": "alT1",
+"label": "Aleta reta movel 1/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+141,
+17,
+10
+]
+],
+"vol": 4.9
+},
+{
+"id": "alT2",
+"label": "Aleta reta movel 2/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+141,
+17,
+10
+]
+],
+"vol": 4.9
+},
+{
+"id": "alT3",
+"label": "Aleta reta movel 3/3 - janela da tras (2,4 mm, meia-esquadria nas bordas)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+141,
+17,
+10
+]
+],
+"vol": 4.9
+},
+{
+"id": "thSupF",
+"label": "Top hat - suporte de canto da frente (FD) - ressaltos da lateral encurtados ate X 279,6",
+"n": 1,
+"E": true,
+"sizes": [
+[
+99,
+95,
+69
+]
+],
+"vol": 58.4
+},
+{
+"id": "thTrA",
+"label": "Top hat - suporte do trilho lateral 1/3 (tras) - 123 mm",
+"n": 1,
+"E": true,
+"sizes": [
+[
+123,
+69,
+17
+]
+],
+"vol": 37.1
+},
+{
+"id": "thTrC",
+"label": "Top hat - suporte do trilho lateral 2/3 (meio, com o parafuso central) - 123 mm + linguetas",
+"n": 1,
+"E": true,
+"sizes": [
+[
+139,
+69,
+17
+]
+],
+"vol": 40.0
+},
+{
+"id": "thTrB",
+"label": "Top hat - suporte do trilho lateral 3/3 (frente) - 123 mm",
+"n": 1,
+"E": true,
+"sizes": [
+[
+123,
+69,
+17
+]
+],
+"vol": 37.1
+},
+{
+"id": "bandaB",
+"label": "Banda do topo lateral - frente (Z 0 a 219,9, emenda no vinco do centro)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+220,
+29,
+12
+]
+],
+"vol": 49.9
+},
+{
+"id": "apB",
+"label": "Apoio do acrilico no topo - frente (Z 60 a 211, rabo de andorinha na emenda)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+156,
+34,
+12
+]
+],
+"vol": 46.1
+},
+{
+"id": "fbS",
+"label": "Faixa batente sob a espinha - cima",
+"n": 2,
+"E": true,
+"sizes": [
+[
+297,
+24,
+12
+],
+[
+24,
+20,
+2
+]
+],
+"vol": 67.8
+},
+{
+"id": "sol1",
+"label": "Soleira / degrau 2/2 - proposta",
+"n": 1,
+"E": false,
+"sizes": [
+[
+173,
+20,
+16
+]
+],
+"vol": 30.9
+},
+{
+"id": "sol1E",
+"label": "Soleira / degrau 1/2 (passa pelo centro) - rebaixo para a caixa de luz",
+"n": 1,
+"E": false,
+"sizes": [
+[
+286,
+20,
+16
+]
+],
+"vol": 47.7
+},
+{
+"id": "mold1",
+"label": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+234,
+215,
+8
+]
+],
+"vol": 59.8
+},
+{
+"id": "mold2",
+"label": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+234,
+234,
+8
+]
+],
+"vol": 63.0
+},
+{
+"id": "pux",
+"label": "Porta direita - puxador",
+"n": 1,
+"E": true,
+"sizes": [
+[
+60,
+20,
+12
+]
+],
+"vol": 13.8
+},
+{
+"id": "reguaPortaA",
+"label": "Batente do meio de baixo: regua reta preta 1 de 2 (18,5 x 226,5 x 3 mm, meia-junta em cima), atras da porta D",
+"n": 1,
+"E": false,
+"sizes": [
+[
+227,
+18,
+3
+]
+],
+"vol": 11.8
+},
+{
+"id": "reguaPortaB",
+"label": "Batente do meio de baixo: regua reta preta 2 de 2 (18,5 x 226,2 x 3 mm, meia-junta embaixo), atras da porta D",
+"n": 1,
+"E": false,
+"sizes": [
+[
+226,
+18,
+3
+]
+],
+"vol": 11.8
+},
+{
+"id": "placaTopo",
+"label": "Placa do rebaixo da travessa de cima (atras da faixa de cima da porta de baixo): preenche ate a face da impressora (Z 273,5) para a espuma de vedacao; 3 furos cegos de 2,5 mm por tras para parafusar por dentro",
+"n": 1,
+"E": true,
+"sizes": [
+[
+222,
+6,
+4
+]
+],
+"vol": 4.3
+},
+{
+"id": "dobr",
+"label": "Dobradicas K1 270 graus da porta direita (Y 150 e 450) - folhas",
+"n": 4,
+"E": true,
+"sizes": [
+[
+68,
+29,
+17
+],
+[
+68,
+29,
+17
+],
+[
+38,
+29,
+17
+],
+[
+38,
+29,
+17
+]
+],
+"vol": 52.5
+},
+{
+"id": "dobrG",
+"label": "Dobradicas K1 - gaiola das engrenagens",
+"n": 2,
+"E": true,
+"sizes": [
+[
+30,
+20,
+20
+],
+[
+30,
+20,
+20
+]
+],
+"vol": 6.5
+},
+{
+"id": "fechos",
+"label": "Fechos snap latch do painel lateral (frente e tras, Y 190 e 430)",
+"n": 12,
+"E": true,
+"sizes": [
+[
+44,
+24,
+8
+],
+[
+44,
+24,
+8
+],
+[
+44,
+24,
+8
+],
+[
+44,
+24,
+8
+],
+[
+34,
+16,
+8
+],
+[
+34,
+16,
+8
+],
+[
+34,
+16,
+8
+],
+[
+34,
+16,
+8
+],
+[
+26,
+13,
+11
+],
+[
+26,
+13,
+11
+],
+[
+26,
+13,
+11
+],
+[
+26,
+13,
+11
+]
+],
+"vol": 27.6
+},
+{
+"id": "acr1",
+"label": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras)",
+"n": 1,
+"E": true,
+"sizes": [
+[
+448,
+233,
+3
+]
+],
+"vol": 312.8
+},
+{
+"id": "bat1",
+"label": "Batente lateral da porta",
+"n": 1,
+"E": true,
+"sizes": [
+[
+159,
+9,
+2
+]
+],
+"vol": 2.1
+}
+]
