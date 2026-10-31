@@ -584,13 +584,13 @@
  {
   "arquivo": "04_Portas/SV08_Porta_Acrilico_Porta-D.stl",
   "cor": "Acrilico 3 mm",
-  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras)",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (furos 3,4 para inserto ou porca)",
   "id_interno": "acr1"
  },
  {
   "arquivo": "04_Portas/SV08_Porta_Acrilico_Porta-E.stl",
   "cor": "Acrilico 3 mm",
-  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (escareados por tras) - lado E (espelho)",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 448,5), atras da moldura, encosta direto nos batentes (furos 3,4 para inserto ou porca) - lado E (espelho)",
   "id_interno": "acr1_E"
  },
  {
@@ -608,13 +608,13 @@
  {
   "arquivo": "04_Portas/SV08_Porta_Batente_Meio_1de2_Centro.stl",
   "cor": "Preto",
-  "descricao": "Batente do meio de baixo: regua reta preta 1 de 2 (18,5 x 226,5 x 3 mm, meia-junta em cima), atras da porta D",
+  "descricao": "Batente do meio de baixo: regua reta preta 1 de 2 (18,5 x 226,5 x 5 mm, meia-junta em cima, porcas M3 embutidas por tras), atras da porta D",
   "id_interno": "reguaPortaA"
  },
  {
   "arquivo": "04_Portas/SV08_Porta_Batente_Meio_2de2_Centro.stl",
   "cor": "Preto",
-  "descricao": "Batente do meio de baixo: regua reta preta 2 de 2 (18,5 x 226,2 x 3 mm, meia-junta embaixo), atras da porta D",
+  "descricao": "Batente do meio de baixo: regua reta preta 2 de 2 (18,5 x 226,2 x 5 mm, meia-junta embaixo, porcas M3 embutidas por tras), atras da porta D",
   "id_interno": "reguaPortaB"
  },
  {
@@ -644,25 +644,25 @@
  {
   "arquivo": "04_Portas/SV08_Porta_Moldura_Inferior_Porta-D.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, furos passantes M3)",
   "id_interno": "mold1"
  },
  {
   "arquivo": "04_Portas/SV08_Porta_Moldura_Inferior_Porta-E.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, furos passantes M3) - lado E (espelho)",
   "id_interno": "mold1_E"
  },
  {
   "arquivo": "04_Portas/SV08_Porta_Moldura_Superior_Porta-D.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, furos passantes M3)",
   "id_interno": "mold2"
  },
  {
   "arquivo": "04_Portas/SV08_Porta_Moldura_Superior_Porta-E.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, furos passantes M3) - lado E (espelho)",
   "id_interno": "mold2_E"
  },
  {
@@ -1124,13 +1124,13 @@
  {
   "arquivo": "06_Extensao/SV08_Extensao_Acrilico_Porta-D.stl",
   "cor": "Acrilico 3 mm",
-  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras)",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (furos 3,4 para inserto ou porca)",
   "id_interno": "u_acr1"
  },
  {
   "arquivo": "06_Extensao/SV08_Extensao_Acrilico_Porta-E.stl",
   "cor": "Acrilico 3 mm",
-  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (escareados por tras) - lado E (espelho)",
+  "descricao": "Porta direita - acrilico 3 mm do tamanho da porta (233 x 326,4), atras da moldura, encosta direto nos batentes (furos 3,4 para inserto ou porca) - lado E (espelho)",
   "id_interno": "u_acr1_E"
  },
  {
@@ -1220,7 +1220,7 @@
  {
   "arquivo": "06_Extensao/SV08_Extensao_Batente_Meio_Centro.stl",
   "cor": "Preto",
-  "descricao": "Batente do meio: regua reta preta 18,5 x 296 x 3 mm, aparafusada atras da porta D (a E fecha encostando nela; abre a E primeiro)",
+  "descricao": "Batente do meio: regua reta preta 18,5 x 296 x 5 mm com 4 porcas M3 embutidas por tras, atras da porta D (a E fecha encostando nela; abre a E primeiro)",
   "id_interno": "u_reguaPorta"
  },
  {
@@ -1490,13 +1490,13 @@
  {
   "arquivo": "06_Extensao/SV08_Extensao_Moldura_Inferior_Porta-D.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3)",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, furos passantes M3)",
   "id_interno": "u_mold1"
  },
  {
   "arquivo": "06_Extensao/SV08_Extensao_Moldura_Inferior_Porta-E.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "descricao": "Porta direita - moldura de baixo (so por fora do acrilico, 8 mm, furos passantes M3) - lado E (espelho)",
   "id_interno": "u_mold1_E"
  },
  {
@@ -1514,13 +1514,13 @@
  {
   "arquivo": "06_Extensao/SV08_Extensao_Moldura_Superior_Porta-D.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3)",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, furos passantes M3)",
   "id_interno": "u_mold2"
  },
  {
   "arquivo": "06_Extensao/SV08_Extensao_Moldura_Superior_Porta-E.stl",
   "cor": "Preto",
-  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, com insertos M3) - lado E (espelho)",
+  "descricao": "Porta direita - moldura de cima (so por fora do acrilico, 8 mm, furos passantes M3) - lado E (espelho)",
   "id_interno": "u_mold2_E"
  },
  {

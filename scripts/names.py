@@ -89,7 +89,7 @@ N={
 'tcHW':('H','Coluna','Parafusos','Canto-T{S}',F_),'acHW':('H','Painel','Parafusos_Moldura','Lateral-{S}',F_),
 'fechosHW':('H','Painel','Parafusos_Fechos','Lateral-{S}',F_),'pfHW':('H','Painel','Parafusos_Moldura','Fundo-{S}',F_),
 'pfFchHW':('H','Painel','Parafusos_Fechos','Fundo-{S}',F_),'portaHW':('H','Porta','Parafusos','Porta-{S}',F_),
-'portaIns':('H','Porta','Insertos_M3','Porta-{S}',F_),'portaHWcD':('H','Porta','Parafusos_Batente_Meio','Porta-D',F_),
+'portaHWcD':('H','Porta','Parafusos_Batente_Meio','Porta-D',F_),
 'portaHWcE':('H','Porta','Parafusos_Meio','Porta-E',F_),'dobrHW':('H','Porta','Parafusos_Dobradicas','Porta-{S}',F_),
 'tnF':('H','TopHat','Parafusos_Perfil','Frente',F_),'tfHW':('H','TopHat','Parafusos','Frente',F_),'tnT':('H','TopHat','Parafusos_Perfil','Fundo',F_),
 'trHW':('H','TopHat','Parafusos','Fundo',F_),'tnL':('H','TopHat','Parafusos_Perfil','Lateral-{S}',F_),'hwTopo':('H','TopHat','Parafusos','Canto-F{S}',F_),
@@ -100,7 +100,7 @@ N={
 'u_fechosHW':('H','Extensao','Parafusos_Fechos','Lateral-{S}',F_),'u_tcHW':('H','Extensao','Parafusos','Canto-T{S}',F_),
 'u_pfHW':('H','Extensao','Parafusos_Moldura','Fundo-{S}',F_),'u_pfFchHW':('H','Extensao','Parafusos_Fechos','Fundo-{S}',F_),
 'u_dobrHW':('H','Extensao','Parafusos_Dobradicas','Porta-{S}',F_),'u_portaHW':('H','Extensao','Parafusos','Porta-{S}',F_),
-'u_portaIns':('H','Extensao','Insertos_M3','Porta-{S}',F_),'u_portaHWcD':('H','Extensao','Parafusos_Batente_Meio','Porta-D',F_),
+'u_portaHWcD':('H','Extensao','Parafusos_Batente_Meio','Porta-D',F_),
 'u_portaHWcE':('H','Extensao','Parafusos_Meio','Porta-E',F_),'u_hw2020':('H','Extensao','Parafusos_Perfil_2020','Lado-{S}',F_),
 # ---------------- comprados
 'tbAS03':('K','Base','Tomada_AS03','Tras-E',C_),'fita':('K','Base','Fita_LED_ARGB','Frente',C_),'exSopr':('K','TopHat','Sopradores_4020','Lateral-{S}',C_),
