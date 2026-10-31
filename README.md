@@ -15,13 +15,14 @@ portas duplas, top hat com exaustor de aletas e extensao de cima nos perfis 2020
 
 ## Nomes das pecas
 
-Padrao `SV08_<Conjunto>_<Posicao>_<Peca>_<Cor>`, igual no visualizador, na lista de materiais, nos STLs e no Fusion.
+Padrao `SV08_<Local>_<Peca>_<Posicao>`, igual no visualizador, na lista de materiais, nos STLs e no Fusion.
+Exemplo: `SV08_Base_Placa_Frente_Lateral-E`.
 
-- Lado: `D` direita, `E` esquerda (vista de frente). A peca do lado E e o espelho da do lado D.
-- Cantos/colunas: `FD` frente direita, `FE` frente esquerda, `TD` tras direita, `TE` tras esquerda.
-- `LatD` / `LatE`: lateral direita / esquerda. `Ext_`: extensao de cima (perfis 2020).
-- Partes de uma peca dividida: `1de2`, `2de3`...; cor no fim (`Preto`, `Verde`, `Branco`).
-- A tabela completa de nomes esta em `scripts/names.py`.
+- Local: `Base`, `Coluna`, `Painel`, `Porta`, `TopHat`, `Extensao`.
+- Peca: palavras separadas por `_`; partes de uma peca dividida em `1de2`, `2de3`...
+- Posicao: lugar e lado com hifen. `Canto-FD/FE/TD/TE` (frente/tras, direita/esquerda), `Lateral-D/E`, `Frente`, `Frente-D/E`,
+  `Tras-D/E`, `Fundo-D/E`, `Porta-D/E`, `Centro`. Lado visto de frente; a peca do lado E e o espelho da do lado D.
+- A cor nao vai no nome: esta na lista de materiais e em `stl/indice.json`. Tabela completa em `scripts/names.py`.
 
 ## Regerar
 

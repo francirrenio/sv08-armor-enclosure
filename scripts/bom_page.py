@@ -34,11 +34,9 @@ exec(open('names.py').read())
 DESC={m['id']:m.get('desc','') for m in json.load(open('web_meta.json'))}
 FOLD={'01_Base':'01 Base','02_Colunas':'02 Colunas','03_Paineis':'03 Painéis laterais e fundo','04_Portas':'04 Portas de baixo','05_TopHat':'05 Top hat','06_Extensao':'06 Extensão de cima'}
 def region(r): return FOLD[nome(r['id'])[0]]
-def color(l):
-    s=l.lower()
-    if 'verde' in s: return 'verde'
-    if 'branca' in s or 'branco' in s: return 'branco'
-    return 'preto'
+def color(pid):
+    c=cor(pid).lower()
+    return {'verde':'verde','branco':'branco'}.get(c,'preto') if not c.startswith('acril') else 'acrílico'
 def clean(l):
     for p in ('Extensao de cima - ',): l=l.replace(p,'')
     return l
@@ -57,7 +55,7 @@ for g in ORDER:
     sub=sum(q for _,_,q,_ in lst)
     trs=[]
     for r,n,q,big in lst:
-        c=color(r['label'])
+        c=color(r['id'])
         qs=f'{q}' + (f' <span class="dim">({n} D + {n} E)</span>' if r['E'] else '')
         flag=' <span class="warn">passa de 300 mm</span>' if big>300 else ''
         d=DESC.get(r['id'],'').replace('Extensao de cima - ','')
